@@ -113,6 +113,10 @@ params:
     id: '0x082C'
     acl: *ref_0
     slot: voltage1
+  controllerSolenoidMonitorVoltage:
+    id: '0x082D'
+    acl: *ref_0
+    slot: voltage1
   controllerVoltageOutputFrequency:
     id: '0x0840'
     acl: *ref_1
@@ -150,10 +154,10 @@ params:
     id: '0x0858'
     acl: *ref_0
     slot: booleanOnOff1
-  controllerLedOutput:
+  controllerLedOutput1:
     id: '0x0860'
     acl: *ref_1
-    slot: booleanOnOff1
+    slot: percentage2
   controllerRelayOutput:
     id: '0x0861'
     acl: *ref_1
@@ -166,6 +170,10 @@ params:
     id: '0x0863'
     acl: *ref_1
     slot: booleanOnOff1
+  controllerLedOutput2:
+    id: '0x0864'
+    acl: *ref_1
+    slot: percentage2
   controllerThrottlePositionSensorGround:
     id: '0x0875'
     acl: *ref_1
@@ -214,6 +222,21 @@ params:
     id: '0x0889'
     acl: *ref_0
     slot: booleanYesNo1
+    length: 1
+  controllerPWMDriverLastFaultType:
+    id: '0x088A'
+    acl: *ref_0
+    slot: pwmDriverFaultType
+    length: 1
+  controllerPWMDriverLastFaultCommand:
+    id: '0x088B'
+    acl: *ref_0
+    slot: 'null'
+    length: 1
+  controllerPWMDriverLastFaultCurrent:
+    id: '0x088C'
+    acl: *ref_0
+    slot: current1
     length: 1
   controllerPWMDriverDutyCycle:
     id: '0x0890'
@@ -1476,12 +1499,6 @@ params:
     acl: *ref_2
 readonlySetupParams: []
 slots:
-  calibrationMode:
-    encoding:
-      - - 0
-        - A
-      - - 1
-        - B
   acceleration1:
     linear:
       raw:
@@ -1542,6 +1559,14 @@ slots:
         - 10.197162
       unit: <i>g</i>
       precision: 3
+  accessLevel:
+    encoding:
+      - - 0
+        - Basic
+      - - 1
+        - Advanced
+      - - 2
+        - Locked
   bleCommState:
     encoding:
       - - 0
@@ -1656,6 +1681,12 @@ slots:
         - 'No'
       - - 1
         - 'Yes'
+  calibrationMode:
+    encoding:
+      - - 0
+        - A
+      - - 1
+        - B
   clutchId:
     encoding:
       - - 0
@@ -15221,40 +15252,6 @@ slots:
         - Control Module Ground D
       - - 61463
         - Control Module Timer/Clock Performance
-  shiftSelectorCalibrationIndex:
-    encoding:
-      - - 0
-        - P
-      - - 1
-        - R
-      - - 2
-        - 'N'
-      - - 3
-        - '1'
-      - - 4
-        - '2'
-      - - 5
-        - '3'
-      - - 6
-        - '4'
-      - - 7
-        - '5'
-      - - 8
-        - '6'
-      - - 9
-        - '7'
-      - - 10
-        - '8'
-      - - 11
-        - '9'
-      - - 12
-        - '10'
-      - - 13
-        - '11'
-      - - 14
-        - '12'
-      - - 15
-        - '13'
   kiloBaud:
     linear:
       raw:
@@ -15563,6 +15560,42 @@ slots:
         - 200000
       unit: ppm
       precision: 0
+  pwmDriverFaultType:
+    encoding:
+      - - 0
+        - None
+      - - 1
+        - Resistance Low
+      - - 2
+        - Resistance High
+      - - 3
+        - Current High
+      - - 4
+        - Regulation Alternating
+      - - 5
+        - Regulation Low
+      - - 6
+        - Regulation High
+      - - 7
+        - Invalid Mode
+  pwmDriverFaultTypeEmbedded:
+    encoding:
+      - - 0
+        - None
+      - - 1
+        - Res. Low
+      - - 2
+        - Res. High
+      - - 3
+        - Curr. High
+      - - 4
+        - Reg. AC
+      - - 5
+        - Reg. Low
+      - - 6
+        - Reg. High
+      - - 7
+        - Bad Mode
   pwmDriverMode:
     encoding:
       - - 0
@@ -15637,14 +15670,6 @@ slots:
         - 100000
       unit: rpm
       precision: 0
-  accessLevel:
-    encoding:
-      - - 0
-        - Basic
-      - - 1
-        - Advanced
-      - - 2
-        - Locked
   slip1:
     linear:
       raw:
@@ -15663,6 +15688,40 @@ slots:
         - R
       - - 2
         - 'N'
+  shiftSelectorCalibrationIndex:
+    encoding:
+      - - 0
+        - P
+      - - 1
+        - R
+      - - 2
+        - 'N'
+      - - 3
+        - '1'
+      - - 4
+        - '2'
+      - - 5
+        - '3'
+      - - 6
+        - '4'
+      - - 7
+        - '5'
+      - - 8
+        - '6'
+      - - 9
+        - '7'
+      - - 10
+        - '8'
+      - - 11
+        - '9'
+      - - 12
+        - '10'
+      - - 13
+        - '11'
+      - - 14
+        - '12'
+      - - 15
+        - '13'
   speedoCalibration: *ref_8
   switchAction:
     encoding:
@@ -16891,6 +16950,13 @@ menus:
                       doc: ''
                   - type: ScalarEdit
                     args:
+                      param: controllerSolenoidMonitorVoltage
+                      label: Solenoid Monitor
+                      autorefresh: true
+                      tooltip: ''
+                      doc: ''
+                  - type: ScalarEdit
+                    args:
                       param: controllerSpeedInputFrequency
                       label: Speed Input Frequency
                       autorefresh: true
@@ -16906,10 +16972,17 @@ menus:
                   - h_type: SectionDivider
                     args:
                       text: Outputs
-                  - type: BooleanEdit
+                  - type: ScalarEdit
                     args:
-                      param: controllerLedOutput
-                      label: LED
+                      param: controllerLedOutput1
+                      label: LED 1
+                      autorefresh: true
+                      tooltip: ''
+                      doc: ''
+                  - type: ScalarEdit
+                    args:
+                      param: controllerLedOutput2
+                      label: LED 2
                       autorefresh: true
                       tooltip: ''
                       doc: ''
@@ -17413,6 +17486,27 @@ menus:
                     args:
                       param: 'controllerPWMDriverFaulted[0]'
                       label: Faulted
+                      autorefresh: true
+                      tooltip: ''
+                      doc: ''
+                  - type: EncodingEdit
+                    args:
+                      param: 'controllerPWMDriverLastFaultType[0]'
+                      label: Last Fault
+                      autorefresh: true
+                      tooltip: ''
+                      doc: ''
+                  - type: ScalarEdit
+                    args:
+                      param: 'controllerPWMDriverLastFaultCommand[0]'
+                      label: Last Fault Command
+                      autorefresh: true
+                      tooltip: ''
+                      doc: ''
+                  - type: ScalarEdit
+                    args:
+                      param: 'controllerPWMDriverLastFaultCurrent[0]'
+                      label: Last Fault Current
                       autorefresh: true
                       tooltip: ''
                       doc: ''
