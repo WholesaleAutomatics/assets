@@ -513,6 +513,10 @@ params:
     id: '0x8802'
     acl: *ref_0
     slot: temperature1
+  shiftRequestedGear:
+    id: '0x4810'
+    acl: *ref_0
+    slot: gear1
   shiftSelectorGear:
     id: '0x9800'
     acl: *ref_0
@@ -2777,7 +2781,7 @@ slots:
       - - 807
         - >-
           Knock/Combustion Vibration Sensor  1 Circuit Low Bank 1 or Single
-          Sensor 
+          Sensor
       - - 808
         - >-
           Knock/Combustion Vibration Sensor  1 Circuit High Bank 1 or Single
@@ -7737,7 +7741,7 @@ slots:
       - - 3485
         - >-
           Battery Charger Coupler Temperature Sensor Circuit
-          Intermittent/Erratic 
+          Intermittent/Erratic
       - - 3486
         - Battery Charger Coupler Lock Position Sensor Circuit
       - - 3487
@@ -10305,7 +10309,7 @@ slots:
       - - 9376
         - >-
           Closed Loop Particulate Filter Regeneration Control At Limit -
-          Temperature Too Low 
+          Temperature Too Low
       - - 9377
         - >-
           Closed Loop Particulate Filter Regeneration Control At Limit -
@@ -13705,7 +13709,7 @@ slots:
       - - 49823
         - >-
           Lost Communication with Evaporative Emission System Leak Detection
-          Control Module 
+          Control Module
       - - 49824
         - >-
           Invalid Data Received From Hybrid/EV Battery Interface Control Module
@@ -13743,7 +13747,7 @@ slots:
       - - 49930
         - >-
           Software Incompatibility with Evaporative Emission System Leak
-          Detection Control Module 
+          Detection Control Module
       - - 49931
         - Software Incompatibility with Glow Plug Control Module 2
       - - 49932
@@ -14385,7 +14389,7 @@ slots:
       - - 50592
         - >-
           Invalid Data Received from Evaporative Emission System Leak Detection
-          Control Module 
+          Control Module
       - - 50593
         - NOx Sensor A Received Invalid Data From ECM/PCM
       - - 50594
@@ -15261,6 +15265,14 @@ slots:
         - 100
       unit: V
       precision: 1
+  vssLocation:
+    encoding:
+      - - 0
+        - Output Shaft
+      - - 1
+        - Transfer Case
+      - - 2
+        - Final Drive
   xyzIndex:
     encoding:
       - - 0
@@ -15325,20 +15337,8 @@ configurableGaugesHosted:
       doc: ''
   - type: DigitalGauge
     args:
-      param: overdrive
-      label: Overdrive
-      tooltip: ''
-      doc: ''
-  - type: DigitalGauge
-    args:
       param: tccCurrentState
       label: TCC
-      tooltip: ''
-      doc: ''
-  - type: DigitalGauge
-    args:
-      param: transmissionPressureSensor
-      label: Line Press Sensor
       tooltip: ''
       doc: ''
   - type: DigitalGauge
@@ -15921,14 +15921,13 @@ menus:
                 doc: ''
                 index: 0
                 default:
-                  - 0
-                  - 1
-                  - 2
-                  - 3
-                  - 4
-                  - 5
-                  - 6
-                  - 7
+                  - vehicleSpeed
+                  - engineThrottlePosition
+                  - shiftCurrentGear
+                  - tccCurrentState
+                  - controller12VoltBusVoltage
+                  - dtcRecordedCount
+                  - dtcActiveCount
             - h_type: SectionDivider
             - h_type: Menu
               args:
