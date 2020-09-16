@@ -457,6 +457,10 @@ params:
     id: '0x7808'
     acl: *ref_0
     slot: percentage1
+  acceleratorPedalPosition2:
+    id: '0x7809'
+    acl: *ref_0
+    slot: percentage1
   engineThrottlePosition:
     id: '0x7810'
     acl: *ref_0
@@ -465,6 +469,10 @@ params:
     id: '0x7811'
     acl: *ref_0
     slot: voltage1
+  engineActualTorque:
+    id: '0x7812'
+    acl: *ref_0
+    slot: torque
   voltageTPSCalibrationInhibitStatus:
     id: '0x7815'
     acl: *ref_0
@@ -477,6 +485,14 @@ params:
     id: '0x7817'
     acl: *ref_0
     slot: percentage1
+  cruiseControlEnabled:
+    id: '0x781A'
+    acl: *ref_0
+    slot: booleanYesNo1
+  cruiseControlActive:
+    id: '0x781B'
+    acl: *ref_0
+    slot: booleanYesNo1
   engineManifoldAbsolutePressure:
     id: '0x7822'
     acl: *ref_0
@@ -15290,7 +15306,9 @@ slots:
       - - 2
         - Mitsubishi Triton
       - - 3
-        - Toyota Land Cruiser 200
+        - Toyota Land Cruiser CAN 2
+      - - 4
+        - Toyota Land Cruiser CAN 3
   configGaugeSelectionHosted:
     encoding:
       - - 0
