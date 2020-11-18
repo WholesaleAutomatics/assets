@@ -263,6 +263,26 @@ params:
     id: '0x2803'
     acl: *ref_0
     slot: booleanOnOff1
+  leftFrontWheelSpeed:
+    id: '0x2804'
+    acl: *ref_0
+    slot: rpm1
+  rightFrontWheelSpeed:
+    id: '0x2805'
+    acl: *ref_0
+    slot: rpm1
+  leftRearWheelSpeed:
+    id: '0x2806'
+    acl: *ref_0
+    slot: rpm1
+  rightRearWheelSpeed:
+    id: '0x2807'
+    acl: *ref_0
+    slot: rpm1
+  brakeForce:
+    id: '0x2808'
+    acl: *ref_0
+    slot: percentage1
   powertrainType:
     id: '0x3000'
     acl: *ref_3
@@ -348,6 +368,14 @@ params:
     id: '0x6027'
     acl: *ref_3
     slot: booleanYesNo1
+  tccManualOnly:
+    id: '0x6028'
+    acl: *ref_3
+    slot: booleanYesNo1
+  tccBrakeDisengageThreshold:
+    id: '0x6029'
+    acl: *ref_3
+    slot: percentage1
   tccDisableTOSSPercentB:
     id: '0x6041'
     acl: *ref_3
@@ -674,6 +702,12 @@ params:
   lastVariation:
     id: '0xF001'
     acl: *ref_6
+  configurationType:
+    id: '0xF002'
+    acl: *ref_3
+  initialSetupComplete:
+    id: '0xF003'
+    acl: *ref_3
   securityCode:
     id: '0xF080'
     acl: *ref_1
@@ -2797,7 +2831,7 @@ slots:
       - - 807
         - >-
           Knock/Combustion Vibration Sensor  1 Circuit Low Bank 1 or Single
-          Sensor
+          Sensor 
       - - 808
         - >-
           Knock/Combustion Vibration Sensor  1 Circuit High Bank 1 or Single
@@ -7757,7 +7791,7 @@ slots:
       - - 3485
         - >-
           Battery Charger Coupler Temperature Sensor Circuit
-          Intermittent/Erratic
+          Intermittent/Erratic 
       - - 3486
         - Battery Charger Coupler Lock Position Sensor Circuit
       - - 3487
@@ -10325,7 +10359,7 @@ slots:
       - - 9376
         - >-
           Closed Loop Particulate Filter Regeneration Control At Limit -
-          Temperature Too Low
+          Temperature Too Low 
       - - 9377
         - >-
           Closed Loop Particulate Filter Regeneration Control At Limit -
@@ -13725,7 +13759,7 @@ slots:
       - - 49823
         - >-
           Lost Communication with Evaporative Emission System Leak Detection
-          Control Module
+          Control Module 
       - - 49824
         - >-
           Invalid Data Received From Hybrid/EV Battery Interface Control Module
@@ -13763,7 +13797,7 @@ slots:
       - - 49930
         - >-
           Software Incompatibility with Evaporative Emission System Leak
-          Detection Control Module
+          Detection Control Module 
       - - 49931
         - Software Incompatibility with Glow Plug Control Module 2
       - - 49932
@@ -14405,7 +14439,7 @@ slots:
       - - 50592
         - >-
           Invalid Data Received from Evaporative Emission System Leak Detection
-          Control Module
+          Control Module 
       - - 50593
         - NOx Sensor A Received Invalid Data From ECM/PCM
       - - 50594
@@ -15333,50 +15367,92 @@ slots:
         - TISS
       - - 10
         - TOSS
-configurableGaugesHosted:
-  - type: DigitalGauge
-    args:
-      param: vehicleSpeed
-      label: Vehicle Speed
-      tooltip: ''
-      doc: ''
-  - type: DigitalGauge
-    args:
-      param: engineThrottlePosition
-      label: Throttle Position
-      tooltip: ''
-      doc: ''
-  - type: DigitalGauge
-    args:
-      param: shiftCurrentGear
-      slot: gear1
-      label: Gear
-      tooltip: ''
-      doc: ''
-  - type: DigitalGauge
-    args:
-      param: tccCurrentState
-      label: TCC
-      tooltip: ''
-      doc: ''
-  - type: DigitalGauge
-    args:
-      param: controller12VoltBusVoltage
-      label: Battery
-      tooltip: ''
-      doc: ''
-  - type: DigitalGauge
-    args:
-      param: dtcRecordedCount
-      label: Faults
-      tooltip: ''
-      doc: ''
-  - type: DigitalGauge
-    args:
-      param: dtcActiveCount
-      label: Active Faults
-      tooltip: ''
-      doc: ' '
+logging:
+  params:
+    - label: Engine/Vehicle
+      params:
+        - param: vehicleSpeed
+          label: Vehicle Speed
+          header: VehSpd
+          gaugeType: DigitalGauge
+        - param: engineThrottlePosition
+          label: Throttle Position
+          header: EngThr%
+          gaugeType: DigitalGauge
+        - param: transmissionInputShaftSpeed
+          label: Trans Input Shaft Speed
+          header: TISS
+          gaugeType: DigitalGauge
+        - param: engineCoolantTemperature
+          label: Engine Temp
+          header: EngineTemp
+          gaugeType: DigitalGauge
+        - param: transmissionTemperature
+          label: Trans Temp
+          header: TransTemp
+          gaugeType: DigitalGauge
+        - param: transmissionInputShaftSpeed
+          label: Trans Input Shaft Speed
+          header: TISS
+          gaugeType: DigitalGauge
+        - param: rightRearWheelSpeed
+          label: Right Rear Wheel Speed
+          header: RRWheelSpeed
+          gaugeType: DigitalGauge
+        - param: leftRearWheelSpeed
+          label: Left Rear Wheel Speed
+          header: LRWheelSpeed
+          gaugeType: DigitalGauge
+        - param: vehicleSpeedSensorSpeed
+          label: VSS
+          header: VSS
+          gaugeType: DigitalGauge
+    - label: Control
+      params:
+        - param: shiftCurrentGear
+          label: Gear
+          header: ShiftCurGear
+          gaugeType: DigitalGauge
+          gaugeSlot: gear1
+        - param: tccCurrentState
+          label: TCC
+          header: TCCState
+          gaugeType: DigitalGauge
+        - param: cruiseControlActive
+          label: Cruise On
+          header: CruiseOn
+          gaugeType: DigitalGauge
+        - param: brakeSwitch
+          label: Brake Switch
+          header: BrakeSwitch
+          gaugeType: DigitalGauge
+        - param: transferCaseGear
+          label: Transfer Case
+          header: TransferCaseLow
+          gaugeType: DigitalGauge
+        - param: shiftSelectorGear
+          label: Shift Selector
+          header: ShiftSelectorGear
+          gaugeType: DigitalGauge
+    - label: Diag/Health
+      params:
+        - param: controller12VoltBusVoltage
+          header: BattVolt
+          label: Battery
+          gaugeType: DigitalGauge
+          tooltip: ''
+          doc: ''
+        - param: dtcRecordedCount
+          header: DTCRecorded
+          label: Faults
+          gaugeType: DigitalGauge
+          tooltip: ''
+          doc: ''
+        - param: dtcActiveCount
+          label: Active Faults
+          gaugeType: DigitalGauge
+          tooltip: ''
+          doc: ' '
 slotLocalizations:
   - name: Pressure
     base:
@@ -15701,6 +15777,10 @@ dtcs:
     code: U0415
   networkVehicleSpeedSensorSpeedTimeout:
     code: U0121
+  networkBrakeModuleDataError:
+    code: U0418
+  networkBrakeModuleTimeout:
+    code: U0129
   radioModuleCommLost:
     code: U0258
   transOilTempTooHigh:
@@ -15926,6 +16006,84 @@ menus:
     doc: ''
     isMajor: true
     children:
+      - type: LcmSetupWizard
+        args:
+          title: Setup Wizard
+          tooltip: ''
+          doc: ''
+          configs:
+            - key: 2
+              make: Toyota
+              model: LandCruiser
+              series: 200 Series
+              engine: 1VD-FTV - 4.5L Twin Turbo Diesel Non-DPF
+              transmission: 6 Speed AB60 Automatic
+              params:
+                powertrainType: 3
+              sensors:
+                acceleratorPedalPosition1: Throttle
+                brakeSwitch: Brake
+                engineSpeed: Engine Speed
+                shiftCurrentGear: Current Gear
+                transferCaseGear: Low Range
+                controllerExtSwitch0State: Manual Switch
+              calibrators:
+                - canBusCheck
+              brakeSignal: boolean
+            - key: 3
+              make: Toyota
+              model: LandCruiser
+              series: 200 Series
+              engine: 1VD-FTV - 4.5L Twin Turbo Diesel with DPF
+              transmission: 6 Speed AB60 Automatic
+              params:
+                powertrainType: 4
+              sensors:
+                acceleratorPedalPosition1: Throttle
+                brakeSwitch: Brake
+                engineSpeed: Engine Speed
+                shiftCurrentGear: Current Gear
+                transferCaseGear: Low Range
+                controllerExtSwitch0State: Manual Switch
+              calibrators:
+                - canBusCheck
+              brakeSignal: none
+            - key: 4
+              make: Mitsubishi
+              model: Triton
+              series: MN
+              engine: 4D56 - 2.5L Turbo Diesel
+              transmission: 4 Speed V4A51 Automatic
+              params:
+                powertrainType: 2
+              sensors:
+                acceleratorPedalPosition1: Throttle
+                brakeSwitch: Brake
+                engineSpeed: Engine Speed
+                shiftCurrentGear: Current Gear
+                transferCaseGear: Low Range
+                controllerExtSwitch0State: Manual Switch
+              calibrators:
+                - canBusCheck
+              brakeSignal: none
+            - key: 5
+              make: Mitsubishi
+              model: Triton
+              series: MN
+              engine: 4D56 - 2.5L Turbo Diesel
+              transmission: 5 Speed V5A51 Automatic
+              params:
+                powertrainType: 2
+              sensors:
+                acceleratorPedalPosition1: Throttle
+                brakeSwitch: Brake
+                engineSpeed: Engine Speed
+                shiftCurrentGear: Current Gear
+                transferCaseGear: Low Range
+                controllerExtSwitch0State: Manual Switch
+              calibrators:
+                - canBusCheck
+              brakeSignal: none
       - type: Menu
         args:
           title: Dashboard
@@ -16006,6 +16164,20 @@ menus:
                 param: tccEnableDelay
                 label: TCC Enable Delay
                 tooltip: Delay after a shift before the TCC will lock
+                doc: ''
+            - type: BooleanEdit
+              args:
+                param: tccManualOnly
+                label: TCC Manual Control
+                tooltip: TCC will engage and disengage only on manual command
+                doc: ''
+            - type: ScalarEdit
+              args:
+                param: tccBrakeDisengageThreshold
+                label: TCC Brake Threshold
+                tooltip: >-
+                  TCC will disengage above this brake force. Set to 100% to
+                  never disengage with braking
                 doc: ''
       - type: Menu
         args:
@@ -16091,7 +16263,7 @@ menus:
                 param: voltageTPSIsReversed
                 label: Reverse TPS
                 tooltip: >-
-                  Makes increasing sensor voltage corespond to smaller throttle
+                  Makes increasing sensor voltage correspond to smaller throttle
                   opening or pedal position.
                 doc: ''
             - h_type: SectionDivider
