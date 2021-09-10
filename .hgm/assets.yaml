@@ -4029,15 +4029,15 @@ software:
       370ae7c:
         changelog: Set switch-to-ground as default for diagnostic mode
         releaseDate: '2021-06-30T00:52:20.133Z'
-        upgradePrompt: false
+        upgradePrompt: true
       '623e758':
         changelog: Fixed lockup switch, increased default lock speed
         releaseDate: '2021-06-29T23:28:11.974Z'
-        upgradePrompt: false
+        upgradePrompt: true
       62f21a3:
         changelog: Fixed some solenoid errors and switched to WAT-specific BLE UUID
         releaseDate: '2021-01-06T06:25:08.430Z'
-        upgradePrompt: false
+        upgradePrompt: true
       7b0a6cb:
         changelog: Fixed an issue with loading parameters
         releaseDate: '2021-09-10T21:49:46.388Z'
@@ -4045,10 +4045,10 @@ software:
       a1077e0f:
         changelog: Bug fixes
         releaseDate: '2019-11-25T19:14:10.282Z'
-        upgradePrompt: false
+        upgradePrompt: true
       e29840bd0:
         changelog: Added second Toyota CAN variation
         releaseDate: '2020-09-16T21:57:49.793Z'
-        upgradePrompt: false
+        upgradePrompt: true
       flashAppBaseUrl: >-
         com.hgmelectronics.flash.cs.binary://assets.automatictransmission.com.au/software
