@@ -4034,6 +4034,10 @@ software:
         changelog: Fixed lockup switch, increased default lock speed
         releaseDate: '2021-06-29T23:28:11.974Z'
         upgradePrompt: true
+      629daec:
+        changelog: Bug fixes
+        releaseDate: '2021-10-01T00:00:00.000Z'
+        upgradePrompt: true
       62f21a3:
         changelog: Fixed some solenoid errors and switched to WAT-specific BLE UUID
         releaseDate: '2021-01-06T06:25:08.430Z'
