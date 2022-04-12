@@ -1,0 +1,8 @@
+syntax: glob
+*.orig
+*.rej
+*~
+*.err
+*.prefs
+.vscode
+.DS_Store
