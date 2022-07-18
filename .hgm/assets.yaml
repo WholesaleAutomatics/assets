@@ -1526,7 +1526,7 @@ devices:
   LCM3-00475:
     model: base
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: fcc1b78
   LCM3-00476:
     model: base
     product: lcm3
