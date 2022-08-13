@@ -5083,6 +5083,10 @@ software:
         changelog: Added second Toyota CAN variation
         releaseDate: '2020-09-16T21:57:49.793Z'
         upgradePrompt: true
+      f760720:
+        changelog: Customer release of flex lock control
+        releaseDate: '2022-08-13T01:53:26.743Z'
+        upgradePrompt: false
       fcc1b78:
         changelog: Added TCC slip control on vehicles that support it
         releaseDate: '2022-07-13T04:24:02.043Z'
