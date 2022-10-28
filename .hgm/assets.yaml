@@ -5032,6 +5032,8 @@ devices:
 parameters:
   lcm3:
     base:
+      59fabfe:
+        releaseDate: '2022-10-28T03:46:36.919Z'
       8deb246:
         releaseDate: '2022-05-16T07:00:00.000Z'
       fcc1b78:
@@ -5043,6 +5045,10 @@ software:
         changelog: Set switch-to-ground as default for diagnostic mode
         releaseDate: '2021-06-30T00:52:20.133Z'
         upgradePrompt: true
+      59fabfe:
+        changelog: Improved control strategy, bug fixes, manual mode stall prevention
+        releaseDate: '2022-10-28T03:49:52.082Z'
+        upgradePrompt: false
       '623e758':
         changelog: Fixed lockup switch, increased default lock speed
         releaseDate: '2021-06-29T23:28:11.974Z'
