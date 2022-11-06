@@ -1741,9 +1741,9 @@ devices:
     softwareVersion: fcc1b78
   LCM3-00442:
     model: base
-    paramDefVersion: fcc1b78
+    paramDefVersion: 59fabfe
     product: lcm3
-    softwareVersion: fcc1b78
+    softwareVersion: 59fabfe
   LCM3-00443:
     model: base
     paramDefVersion: 8deb246
