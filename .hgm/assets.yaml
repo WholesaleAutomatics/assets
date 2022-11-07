@@ -911,9 +911,9 @@ devices:
     softwareVersion: 6f3ec2e
   LCM3-00276:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 59fabfe
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 59fabfe
   LCM3-00277:
     model: base
     paramDefVersion: fcc1b78
