@@ -766,9 +766,9 @@ devices:
     softwareVersion: 6f3ec2e
   LCM3-00247:
     model: base
-    paramDefVersion: fcc1b78
+    paramDefVersion: 59fabfe
     product: lcm3
-    softwareVersion: fcc1b78
+    softwareVersion: 59fabfe
   LCM3-00248:
     model: base
     paramDefVersion: 8deb246
@@ -1266,9 +1266,9 @@ devices:
     softwareVersion: 59fabfe
   LCM3-00347:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 59fabfe
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 59fabfe
   LCM3-00348:
     model: base
     paramDefVersion: 8deb246
@@ -1316,9 +1316,9 @@ devices:
     softwareVersion: 6f3ec2e
   LCM3-00357:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 59fabfe
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 59fabfe
   LCM3-00358:
     model: base
     paramDefVersion: 8deb246
@@ -2166,9 +2166,9 @@ devices:
     softwareVersion: 6f3ec2e
   LCM3-00527:
     model: base
-    paramDefVersion: fcc1b78
+    paramDefVersion: 59fabfe
     product: lcm3
-    softwareVersion: fcc1b78
+    softwareVersion: 59fabfe
   LCM3-00528:
     model: base
     paramDefVersion: fcc1b78
@@ -2231,9 +2231,9 @@ devices:
     softwareVersion: 6f3ec2e
   LCM3-00540:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 59fabfe
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 59fabfe
   LCM3-00541:
     model: base
     paramDefVersion: 8deb246
