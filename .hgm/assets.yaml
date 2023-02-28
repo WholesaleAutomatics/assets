@@ -5034,6 +5034,8 @@ parameters:
     base:
       59fabfe:
         releaseDate: '2022-10-28T03:46:36.919Z'
+      805f310:
+        releaseDate: '2023-02-28T05:47:38.133Z'
       8deb246:
         releaseDate: '2022-05-16T07:00:00.000Z'
       fcc1b78:
@@ -5077,6 +5079,10 @@ software:
         changelog: Added torque signal for non-DPF LC200
         releaseDate: '2021-11-14T22:22:39.051Z'
         upgradePrompt: true
+      805f310:
+        changelog: Changes to defaults and gauges
+        releaseDate: '2023-02-28T05:47:25.864Z'
+        upgradePrompt: false
       a1077e0f:
         changelog: Bug fixes
         releaseDate: '2019-11-25T19:14:10.282Z'
