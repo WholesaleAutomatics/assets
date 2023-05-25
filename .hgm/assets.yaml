@@ -2531,14 +2531,14 @@ devices:
     softwareVersion: 6f3ec2e
   LCM3-00600:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00601:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00602:
     model: base
     paramDefVersion: 805f310
@@ -2546,69 +2546,69 @@ devices:
     softwareVersion: 805f310
   LCM3-00603:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00604:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00605:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00606:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00607:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00608:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00609:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00610:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00611:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00612:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00613:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00614:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00615:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00616:
     model: base
     paramDefVersion: 805f310
@@ -2616,34 +2616,34 @@ devices:
     softwareVersion: 805f310
   LCM3-00617:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00618:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00619:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00620:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00621:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00622:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00623:
     model: base
     paramDefVersion: 805f310
@@ -2651,9 +2651,9 @@ devices:
     softwareVersion: 805f310
   LCM3-00624:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00625:
     model: base
     paramDefVersion: 805f310
@@ -2721,9 +2721,9 @@ devices:
     softwareVersion: 805f310
   LCM3-00638:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00639:
     model: base
     paramDefVersion: 805f310
@@ -2746,14 +2746,14 @@ devices:
     softwareVersion: 805f310
   LCM3-00643:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00644:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00645:
     model: base
     paramDefVersion: 805f310
@@ -2761,139 +2761,139 @@ devices:
     softwareVersion: 805f310
   LCM3-00646:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00647:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00648:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00649:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00650:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00651:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00652:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00653:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00654:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00655:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00656:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00657:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00658:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00659:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00660:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00661:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00662:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00663:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00664:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00665:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00666:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00667:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00668:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00669:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00670:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00671:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00672:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00673:
     model: base
     paramDefVersion: 805f310
@@ -2901,9 +2901,9 @@ devices:
     softwareVersion: 805f310
   LCM3-00674:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00675:
     model: base
     paramDefVersion: 805f310
@@ -2916,9 +2916,9 @@ devices:
     softwareVersion: 805f310
   LCM3-00677:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00678:
     model: base
     paramDefVersion: 805f310
@@ -2931,104 +2931,104 @@ devices:
     softwareVersion: 805f310
   LCM3-00680:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00681:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00682:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00683:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00684:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00685:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00686:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00687:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00688:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00689:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00690:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00691:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00692:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00693:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00694:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00695:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00696:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00697:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00698:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00699:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00700:
     model: base
     paramDefVersion: 805f310
@@ -3136,24 +3136,24 @@ devices:
     softwareVersion: 805f310
   LCM3-00721:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00722:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00723:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00724:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 805f310
     product: lcm3
-    softwareVersion: 6f3ec2e
+    softwareVersion: 805f310
   LCM3-00725:
     model: base
     paramDefVersion: 805f310
