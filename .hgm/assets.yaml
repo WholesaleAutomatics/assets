@@ -5032,6 +5032,8 @@ devices:
 parameters:
   lcm3:
     base:
+      2c6b589:
+        releaseDate: '2023-06-05T23:19:15.222Z'
       59fabfe:
         releaseDate: '2022-10-28T03:46:36.919Z'
       805f310:
@@ -5043,6 +5045,10 @@ parameters:
 software:
   lcm3:
     base:
+      2c6b589:
+        changelog: Improved CAN bus integration on Toyota LC200
+        releaseDate: '2023-06-05T23:18:35.266Z'
+        upgradePrompt: false
       370ae7c:
         changelog: Set switch-to-ground as default for diagnostic mode
         releaseDate: '2021-06-30T00:52:20.133Z'
