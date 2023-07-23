@@ -5040,6 +5040,8 @@ parameters:
         releaseDate: '2023-02-28T05:47:38.133Z'
       8deb246:
         releaseDate: '2022-05-16T07:00:00.000Z'
+      98d60c3:
+        releaseDate: '2023-07-23T18:32:58.274Z'
       fcc1b78:
         releaseDate: '2022-07-13T04:24:02.043Z'
 software:
@@ -5088,6 +5090,10 @@ software:
       805f310:
         changelog: Changes to defaults and gauges
         releaseDate: '2023-02-28T05:47:25.864Z'
+        upgradePrompt: false
+      98d60c3:
+        changelog: Updates for Toyota Hilux variations
+        releaseDate: '2023-07-23T18:32:54.920Z'
         upgradePrompt: false
       a1077e0f:
         changelog: Bug fixes
