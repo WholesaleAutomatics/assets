@@ -4876,7 +4876,7 @@ devices:
     softwareVersion: 6f3ec2e
   LCM3-01069:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 98d60c3
     product: lcm3
     softwareVersion: 6f3ec2e
   LCM3-01070:
@@ -5029,6 +5029,201 @@ devices:
     paramDefVersion: 8deb246
     product: lcm3
     softwareVersion: 6f3ec2e
+  LCM3-01100:
+    model: base
+    paramDefVersion: 98d60c3
+    product: lcm3
+    softwareVersion: 98d60c3
+  LCM3-01101:
+    model: base
+    paramDefVersion: 98d60c3
+    product: lcm3
+    softwareVersion: 98d60c3
+  LCM3-01102:
+    model: base
+    paramDefVersion: 98d60c3
+    product: lcm3
+    softwareVersion: 98d60c3
+  LCM3-01103:
+    model: base
+    paramDefVersion: 98d60c3
+    product: lcm3
+    softwareVersion: 98d60c3
+  LCM3-01104:
+    model: base
+    paramDefVersion: 98d60c3
+    product: lcm3
+    softwareVersion: 98d60c3
+  LCM3-01105:
+    model: base
+    paramDefVersion: 98d60c3
+    product: lcm3
+    softwareVersion: 98d60c3
+  LCM3-01106:
+    model: base
+    paramDefVersion: 98d60c3
+    product: lcm3
+    softwareVersion: 98d60c3
+  LCM3-01107:
+    model: base
+    paramDefVersion: 98d60c3
+    product: lcm3
+    softwareVersion: 98d60c3
+  LCM3-01108:
+    model: base
+    paramDefVersion: 98d60c3
+    product: lcm3
+    softwareVersion: 98d60c3
+  LCM3-01109:
+    model: base
+    paramDefVersion: 98d60c3
+    product: lcm3
+    softwareVersion: 98d60c3
+  LCM3-01110:
+    model: base
+    paramDefVersion: 98d60c3
+    product: lcm3
+    softwareVersion: 98d60c3
+  LCM3-01111:
+    model: base
+    paramDefVersion: 98d60c3
+    product: lcm3
+    softwareVersion: 98d60c3
+  LCM3-01112:
+    model: base
+    paramDefVersion: 98d60c3
+    product: lcm3
+    softwareVersion: 98d60c3
+  LCM3-01113:
+    model: base
+    paramDefVersion: 98d60c3
+    product: lcm3
+    softwareVersion: 98d60c3
+  LCM3-01114:
+    model: base
+    paramDefVersion: 98d60c3
+    product: lcm3
+    softwareVersion: 98d60c3
+  LCM3-01115:
+    model: base
+    paramDefVersion: 98d60c3
+    product: lcm3
+    softwareVersion: 98d60c3
+  LCM3-01116:
+    model: base
+    paramDefVersion: 98d60c3
+    product: lcm3
+    softwareVersion: 98d60c3
+  LCM3-01117:
+    model: base
+    paramDefVersion: 98d60c3
+    product: lcm3
+    softwareVersion: 98d60c3
+  LCM3-01118:
+    model: base
+    paramDefVersion: 98d60c3
+    product: lcm3
+    softwareVersion: 98d60c3
+  LCM3-01119:
+    model: base
+    paramDefVersion: 98d60c3
+    product: lcm3
+    softwareVersion: 98d60c3
+  LCM3-01120:
+    model: base
+    paramDefVersion: 98d60c3
+    product: lcm3
+    softwareVersion: 98d60c3
+  LCM3-01121:
+    model: base
+    paramDefVersion: 98d60c3
+    product: lcm3
+    softwareVersion: 98d60c3
+  LCM3-01122:
+    model: base
+    paramDefVersion: 98d60c3
+    product: lcm3
+    softwareVersion: 98d60c3
+  LCM3-01123:
+    model: base
+    paramDefVersion: 98d60c3
+    product: lcm3
+    softwareVersion: 98d60c3
+  LCM3-01124:
+    model: base
+    paramDefVersion: 98d60c3
+    product: lcm3
+    softwareVersion: 98d60c3
+  LCM3-01125:
+    model: base
+    paramDefVersion: 98d60c3
+    product: lcm3
+    softwareVersion: 98d60c3
+  LCM3-01126:
+    model: base
+    paramDefVersion: 98d60c3
+    product: lcm3
+    softwareVersion: 98d60c3
+  LCM3-01127:
+    model: base
+    paramDefVersion: 98d60c3
+    product: lcm3
+    softwareVersion: 98d60c3
+  LCM3-01128:
+    model: base
+    paramDefVersion: 98d60c3
+    product: lcm3
+    softwareVersion: 98d60c3
+  LCM3-01129:
+    model: base
+    paramDefVersion: 98d60c3
+    product: lcm3
+    softwareVersion: 98d60c3
+  LCM3-01130:
+    model: base
+    paramDefVersion: 98d60c3
+    product: lcm3
+    softwareVersion: 98d60c3
+  LCM3-01131:
+    model: base
+    paramDefVersion: 98d60c3
+    product: lcm3
+    softwareVersion: 98d60c3
+  LCM3-01132:
+    model: base
+    paramDefVersion: 98d60c3
+    product: lcm3
+    softwareVersion: 98d60c3
+  LCM3-01133:
+    model: base
+    paramDefVersion: 98d60c3
+    product: lcm3
+    softwareVersion: 98d60c3
+  LCM3-01134:
+    model: base
+    paramDefVersion: 98d60c3
+    product: lcm3
+    softwareVersion: 98d60c3
+  LCM3-01135:
+    model: base
+    paramDefVersion: 98d60c3
+    product: lcm3
+    softwareVersion: 98d60c3
+  LCM3-01136:
+    model: base
+    paramDefVersion: 98d60c3
+    product: lcm3
+    softwareVersion: 98d60c3
+  LCM3-01137:
+    model: base
+    paramDefVersion: 98d60c3
+    product: lcm3
+    softwareVersion: 98d60c3
+  LCM3-01138:
+    model: base
+    paramDefVersion: 98d60c3
+    product: lcm3
+    softwareVersion: 98d60c3
   LCM3-01139:
     model: base
     paramDefVersion: 98d60c3
