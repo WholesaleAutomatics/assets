@@ -8594,6 +8594,10 @@ software:
         changelog: Added second Toyota CAN variation
         releaseDate: '2020-09-16T21:57:49.793Z'
         upgradePrompt: true
+      f5112fa:
+        changelog: Added support for Prado 150
+        releaseDate: '2024-05-02T05:41:49.194Z'
+        upgradePrompt: false
       f760720:
         changelog: Customer release of flex lock control
         releaseDate: '2022-08-13T01:53:26.743Z'
