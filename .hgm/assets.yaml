@@ -4841,9 +4841,9 @@ devices:
     softwareVersion: 98d60c3
   LCM3-01062:
     model: base
-    paramDefVersion: 98d60c3
+    paramDefVersion: f5112fa
     product: lcm3
-    softwareVersion: 98d60c3
+    softwareVersion: f5112fa
   LCM3-01063:
     model: base
     paramDefVersion: 98d60c3
