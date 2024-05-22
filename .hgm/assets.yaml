@@ -8527,6 +8527,8 @@ parameters:
         releaseDate: '2022-05-16T07:00:00.000Z'
       98d60c3:
         releaseDate: '2023-07-23T18:32:58.274Z'
+      e43fc60:
+        releaseDate: '2024-05-22T04:04:11.771Z'
       f5112fa:
         releaseDate: '2024-05-02T05:17:25.122Z'
       fcc1b78:
@@ -8594,6 +8596,10 @@ software:
         changelog: Added second Toyota CAN variation
         releaseDate: '2020-09-16T21:57:49.793Z'
         upgradePrompt: true
+      e43fc60:
+        changelog: Added additional support for Prado 150
+        releaseDate: '2024-05-22T04:05:56.694Z'
+        upgradePrompt: false
       f5112fa:
         changelog: Added support for Prado 150
         releaseDate: '2024-05-02T05:41:49.194Z'
