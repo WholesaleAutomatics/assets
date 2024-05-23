@@ -8517,6 +8517,8 @@ devices:
 parameters:
   lcm3:
     base:
+      0af753b:
+        releaseDate: '2024-05-23T05:58:07.970Z'
       2c6b589:
         releaseDate: '2023-06-05T23:19:15.222Z'
       59fabfe:
@@ -8536,6 +8538,10 @@ parameters:
 software:
   lcm3:
     base:
+      0af753b:
+        changelog: Added support for Prado 150
+        releaseDate: '2024-05-23T05:56:22.420Z'
+        upgradePrompt: false
       2c6b589:
         changelog: Improved CAN bus integration on Toyota LC200
         releaseDate: '2023-06-05T23:18:35.266Z'
