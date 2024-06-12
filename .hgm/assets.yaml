@@ -6121,7 +6121,7 @@ devices:
     softwareVersion: 0af753b
   LCM3-01320:
     model: base
-    paramDefVersion: 0af753b
+    paramDefVersion: 794f985
     product: lcm3
     softwareVersion: 0af753b
   LCM3-01321:
