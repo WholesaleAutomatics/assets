@@ -8531,6 +8531,8 @@ parameters:
         releaseDate: '2022-05-16T07:00:00.000Z'
       98d60c3:
         releaseDate: '2023-07-23T18:32:58.274Z'
+      b6e48b8:
+        releaseDate: '2024-08-29T23:11:46.739Z'
       e1d9f78:
         releaseDate: '2024-07-14T23:34:22.262Z'
       e43fc60:
@@ -8598,6 +8600,13 @@ software:
         changelog: Bug fixes
         releaseDate: '2019-11-25T19:14:10.282Z'
         upgradePrompt: true
+      b6e48b8:
+        changelog: >-
+          Updated Control Strategy for AC60 Transmissions. Added support for
+          Additional Vehicles. Note: This firmware update will reset Nomad
+          Module to defaults
+        releaseDate: '2024-08-29T23:16:00.694Z'
+        upgradePrompt: false
       e218226:
         changelog: Added progressive TCC apply
         releaseDate: '2021-10-26T22:34:15.186Z'
