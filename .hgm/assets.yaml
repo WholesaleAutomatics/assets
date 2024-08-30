@@ -8603,8 +8603,8 @@ software:
       b6e48b8:
         changelog: >-
           Updated Control Strategy for AC60 Transmissions. Added support for
-          Additional Vehicles. Note: This firmware update will reset Nomad
-          Module to defaults
+          Additional Vehicles. Note: This firmware update may reset Nomad Module
+          to defaults
         releaseDate: '2024-08-29T23:16:00.694Z'
         upgradePrompt: false
       e218226:
