@@ -8521,6 +8521,8 @@ parameters:
         releaseDate: '2024-05-23T05:58:07.970Z'
       2c6b589:
         releaseDate: '2023-06-05T23:19:15.222Z'
+      588748c:
+        releaseDate: '2024-09-13T07:09:33.496Z'
       59fabfe:
         releaseDate: '2022-10-28T03:46:36.919Z'
       794f985:
@@ -8556,6 +8558,10 @@ software:
         changelog: Set switch-to-ground as default for diagnostic mode
         releaseDate: '2021-06-30T00:52:20.133Z'
         upgradePrompt: true
+      588748c:
+        changelog: Added support for FZJ105
+        releaseDate: '2024-09-13T07:08:54.617Z'
+        upgradePrompt: false
       59fabfe:
         changelog: Improved control strategy, bug fixes, manual mode stall prevention
         releaseDate: '2022-10-28T03:49:52.082Z'
