@@ -5701,9 +5701,9 @@ devices:
     softwareVersion: 0af753b
   LCM3-01236:
     model: base
-    paramDefVersion: e1d9f78
+    paramDefVersion: b6e48b8
     product: lcm3
-    softwareVersion: 0af753b
+    softwareVersion: b6e48b8
   LCM3-01237:
     model: base
     paramDefVersion: e1d9f78
@@ -5891,9 +5891,9 @@ devices:
     softwareVersion: 0af753b
   LCM3-01274:
     model: base
-    paramDefVersion: e1d9f78
+    paramDefVersion: b6e48b8
     product: lcm3
-    softwareVersion: 0af753b
+    softwareVersion: b6e48b8
   LCM3-01275:
     model: base
     paramDefVersion: e1d9f78
