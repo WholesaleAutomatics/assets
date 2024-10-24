@@ -8023,9 +8023,9 @@ devices:
     tags: []
   LCM3-01434:
     model: base
-    paramDefVersion: e1d9f78
+    paramDefVersion: b6e48b8
     product: lcm3
-    softwareVersion: 0af753b
+    softwareVersion: b6e48b8
     tags: []
   LCM3-01435:
     model: base
