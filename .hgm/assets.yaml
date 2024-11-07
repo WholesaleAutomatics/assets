@@ -6466,7 +6466,9 @@ devices:
     paramDefVersion: b6e48b8
     product: lcm3
     softwareVersion: b6e48b8
-    tags: []
+    tags:
+      - LC100
+      - 1HD-A750
   LCM3-01173:
     model: base
     paramDefVersion: e1d9f78
@@ -6766,7 +6768,9 @@ devices:
     paramDefVersion: b6e48b8
     product: lcm3
     softwareVersion: b6e48b8
-    tags: []
+    tags:
+      - LC100
+      - 1HD-A750
   LCM3-01224:
     model: base
     paramDefVersion: e1d9f78
@@ -7222,19 +7226,25 @@ devices:
     paramDefVersion: b6e48b8
     product: lcm3
     softwareVersion: b6e48b8
-    tags: []
+    tags:
+      - LC100
+      - 1HD-A750
   LCM3-01300:
     model: base
     paramDefVersion: b6e48b8
     product: lcm3
     softwareVersion: b6e48b8
-    tags: []
+    tags:
+      - LC100
+      - 1HD-A750
   LCM3-01301:
     model: base
     paramDefVersion: b6e48b8
     product: lcm3
     softwareVersion: b6e48b8
-    tags: []
+    tags:
+      - LC100
+      - 1HD-A750
   LCM3-01302:
     model: base
     paramDefVersion: b6e48b8
@@ -7402,7 +7412,9 @@ devices:
     paramDefVersion: b6e48b8
     product: lcm3
     softwareVersion: b6e48b8
-    tags: []
+    tags:
+      - LC100
+      - 1HD-A750
   LCM3-01330:
     model: base
     paramDefVersion: e1d9f78
@@ -7588,7 +7600,9 @@ devices:
     paramDefVersion: b6e48b8
     product: lcm3
     softwareVersion: b6e48b8
-    tags: []
+    tags:
+      - LC100
+      - 1HD-A750
   LCM3-01361:
     model: base
     paramDefVersion: e1d9f78
@@ -7612,7 +7626,9 @@ devices:
     paramDefVersion: b6e48b8
     product: lcm3
     softwareVersion: b6e48b8
-    tags: []
+    tags:
+      - LC100
+      - 1HD-A750
   LCM3-01365:
     model: base
     paramDefVersion: e1d9f78
