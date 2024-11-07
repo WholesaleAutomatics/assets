@@ -6463,9 +6463,9 @@ devices:
     tags: []
   LCM3-01172:
     model: base
-    paramDefVersion: e1d9f78
+    paramDefVersion: b6e48b8
     product: lcm3
-    softwareVersion: 0af753b
+    softwareVersion: b6e48b8
     tags: []
   LCM3-01173:
     model: base
@@ -6763,9 +6763,9 @@ devices:
     tags: []
   LCM3-01223:
     model: base
-    paramDefVersion: e1d9f78
+    paramDefVersion: b6e48b8
     product: lcm3
-    softwareVersion: 0af753b
+    softwareVersion: b6e48b8
     tags: []
   LCM3-01224:
     model: base
@@ -7219,21 +7219,21 @@ devices:
     tags: []
   LCM3-01299:
     model: base
-    paramDefVersion: e1d9f78
+    paramDefVersion: b6e48b8
     product: lcm3
-    softwareVersion: 0af753b
+    softwareVersion: b6e48b8
     tags: []
   LCM3-01300:
     model: base
-    paramDefVersion: e1d9f78
+    paramDefVersion: b6e48b8
     product: lcm3
-    softwareVersion: 0af753b
+    softwareVersion: b6e48b8
     tags: []
   LCM3-01301:
     model: base
-    paramDefVersion: e1d9f78
+    paramDefVersion: b6e48b8
     product: lcm3
-    softwareVersion: 0af753b
+    softwareVersion: b6e48b8
     tags: []
   LCM3-01302:
     model: base
@@ -7399,9 +7399,9 @@ devices:
     tags: []
   LCM3-01329:
     model: base
-    paramDefVersion: e1d9f78
+    paramDefVersion: b6e48b8
     product: lcm3
-    softwareVersion: 0af753b
+    softwareVersion: b6e48b8
     tags: []
   LCM3-01330:
     model: base
@@ -7585,9 +7585,9 @@ devices:
     tags: []
   LCM3-01360:
     model: base
-    paramDefVersion: e1d9f78
+    paramDefVersion: b6e48b8
     product: lcm3
-    softwareVersion: 0af753b
+    softwareVersion: b6e48b8
     tags: []
   LCM3-01361:
     model: base
@@ -7609,9 +7609,9 @@ devices:
     tags: []
   LCM3-01364:
     model: base
-    paramDefVersion: e1d9f78
+    paramDefVersion: b6e48b8
     product: lcm3
-    softwareVersion: 0af753b
+    softwareVersion: b6e48b8
     tags: []
   LCM3-01365:
     model: base
