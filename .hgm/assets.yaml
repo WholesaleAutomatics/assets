@@ -5128,7 +5128,10 @@ devices:
     paramDefVersion: b6e48b8
     product: lcm3
     softwareVersion: b6e48b8
-    tags: []
+    tags:
+      - Hilux
+      - AC60
+      - 1GD-FTV
   LCM3-00949:
     model: base
     paramDefVersion: e1d9f78
