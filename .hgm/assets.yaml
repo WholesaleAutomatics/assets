@@ -1255,10 +1255,12 @@ devices:
     tags: []
   LCM3-00303:
     model: base
-    paramDefVersion: 8deb246
+    paramDefVersion: 0af753b
     product: lcm3
-    softwareVersion: 6f3ec2e
-    tags: []
+    softwareVersion: 0af753b
+    tags:
+      - LC200
+      - AB60
   LCM3-00304:
     model: base
     paramDefVersion: 8deb246
