@@ -2577,7 +2577,7 @@ devices:
     tags: []
   LCM3-00523:
     model: base
-    paramDefVersion: b6e48b8
+    paramDefVersion: b6e48b8-2
     product: lcm3
     softwareVersion: b6e48b8
     tags:
