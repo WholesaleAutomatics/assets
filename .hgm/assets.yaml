@@ -10273,6 +10273,8 @@ parameters:
         releaseDate: '2022-05-16T07:00:00.000Z'
       98d60c3:
         releaseDate: '2023-07-23T18:32:58.274Z'
+      a474e5e:
+        releaseDate: '2024-12-11T21:50:52.110Z'
       b6e48b8:
         releaseDate: '2024-08-29T23:11:46.739Z'
       e1d9f78:
@@ -10346,6 +10348,12 @@ software:
         changelog: Bug fixes
         releaseDate: '2019-11-25T19:14:10.282Z'
         upgradePrompt: true
+      a474e5e:
+        changelog: >-
+          Added support for additional vehicles plus some bug fixes. Firmware
+          Update may reset your module
+        releaseDate: '2024-12-11T21:53:00.942Z'
+        upgradePrompt: false
       b6e48b8:
         changelog: >-
           Updated Control Strategy for AC60 Transmissions. Added support for
