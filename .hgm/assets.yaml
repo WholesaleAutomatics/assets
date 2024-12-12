@@ -6645,10 +6645,13 @@ devices:
     tags: []
   LCM3-01200:
     model: base
-    paramDefVersion: e1d9f78
+    paramDefVersion: cb133d4
     product: lcm3
-    softwareVersion: 0af753b
-    tags: []
+    softwareVersion: cb133d4
+    tags:
+      - LC200
+      - 1UR-FE
+      - AB60
   LCM3-01201:
     model: base
     paramDefVersion: e1d9f78
