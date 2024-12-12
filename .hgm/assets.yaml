@@ -7561,10 +7561,13 @@ devices:
     tags: []
   LCM3-01349:
     model: base
-    paramDefVersion: e1d9f78
+    paramDefVersion: cb133d4
     product: lcm3
-    softwareVersion: 0af753b
-    tags: []
+    softwareVersion: cb133d4
+    tags:
+      - LC200
+      - VDJ
+      - AB60
   LCM3-01350:
     model: base
     paramDefVersion: e1d9f78
