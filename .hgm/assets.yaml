@@ -10277,6 +10277,8 @@ parameters:
         releaseDate: '2024-12-11T21:50:52.110Z'
       b6e48b8:
         releaseDate: '2024-08-29T23:11:46.739Z'
+      cb133d4:
+        releaseDate: '2024-12-12T01:53:24.622Z'
       e1d9f78:
         releaseDate: '2024-07-14T23:34:22.262Z'
       e43fc60:
@@ -10360,6 +10362,12 @@ software:
           Additional Vehicles. Note: This firmware update may reset Nomad Module
           to defaults
         releaseDate: '2024-08-29T23:16:00.694Z'
+        upgradePrompt: false
+      cb133d4:
+        changelog: >-
+          Added support for additional vehicles plus some bug fixes. Firmware
+          Update may reset your module
+        releaseDate: '2024-12-12T01:53:06.717Z'
         upgradePrompt: false
       e218226:
         changelog: Added progressive TCC apply
