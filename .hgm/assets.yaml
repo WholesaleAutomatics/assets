@@ -8968,10 +8968,13 @@ devices:
     tags: []
   LCM3-01581:
     model: base
-    paramDefVersion: e1d9f78
+    paramDefVersion: cb133d4
     product: lcm3
-    softwareVersion: 0af753b
-    tags: []
+    softwareVersion: cb133d4
+    tags:
+      - LC100
+      - 1HD-FTE
+      - A750F
   LCM3-01582:
     model: base
     paramDefVersion: e1d9f78
