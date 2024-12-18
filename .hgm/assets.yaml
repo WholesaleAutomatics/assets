@@ -8656,10 +8656,13 @@ devices:
     tags: []
   LCM3-01529:
     model: base
-    paramDefVersion: e1d9f78
+    paramDefVersion: cb133d4
     product: lcm3
-    softwareVersion: 0af753b
-    tags: []
+    softwareVersion: cb133d4
+    tags:
+      - Nissan
+      - TB48
+      - RE5
   LCM3-01530:
     model: base
     paramDefVersion: e1d9f78
@@ -8752,10 +8755,14 @@ devices:
     tags: []
   LCM3-01545:
     model: base
-    paramDefVersion: e1d9f78
+    paramDefVersion: cb133d4
     product: lcm3
-    softwareVersion: 0af753b
-    tags: []
+    softwareVersion: cb133d4
+    tags:
+      - Nissan
+      - ZD30
+      - RE4
+      - DI
   LCM3-01546:
     model: base
     paramDefVersion: e1d9f78
@@ -8836,10 +8843,13 @@ devices:
     tags: []
   LCM3-01559:
     model: base
-    paramDefVersion: e1d9f78
+    paramDefVersion: cb133d4
     product: lcm3
-    softwareVersion: 0af753b
-    tags: []
+    softwareVersion: cb133d4
+    tags:
+      - Nissan
+      - TB48
+      - RE5
   LCM3-01560:
     model: base
     paramDefVersion: e1d9f78
@@ -8914,10 +8924,13 @@ devices:
     tags: []
   LCM3-01572:
     model: base
-    paramDefVersion: e1d9f78
+    paramDefVersion: cb133d4
     product: lcm3
-    softwareVersion: 0af753b
-    tags: []
+    softwareVersion: cb133d4
+    tags:
+      - Nissan
+      - TB48
+      - RE5
   LCM3-01573:
     model: base
     paramDefVersion: e1d9f78
