@@ -3499,10 +3499,13 @@ devices:
     tags: []
   LCM3-00676:
     model: base
-    paramDefVersion: e1d9f78
+    paramDefVersion: cb133d4
     product: lcm3
-    softwareVersion: 0af753b
-    tags: []
+    softwareVersion: cb133d4
+    tags:
+      - LC200
+      - AB60
+      - Non-DPF
   LCM3-00677:
     model: base
     paramDefVersion: e1d9f78
