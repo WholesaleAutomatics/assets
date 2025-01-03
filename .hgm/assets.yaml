@@ -7723,10 +7723,11 @@ devices:
     tags: []
   LCM3-01372:
     model: base
-    paramDefVersion: e1d9f78
+    paramDefVersion: cb133d4
     product: lcm3
-    softwareVersion: 0af753b
-    tags: []
+    softwareVersion: cb133d4
+    tags:
+      - LC100,A750,1HD-FTE
   LCM3-01373:
     model: base
     paramDefVersion: b6e48b8
