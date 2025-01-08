@@ -10345,11 +10345,11 @@ software:
       0af753b:
         changelog: Added support for Prado 150
         releaseDate: '2024-05-23T05:56:22.420Z'
-        upgradePrompt: false
+        upgradePrompt: true
       2c6b589:
         changelog: Improved CAN bus integration on Toyota LC200
         releaseDate: '2023-06-05T23:18:35.266Z'
-        upgradePrompt: false
+        upgradePrompt: true
       370ae7c:
         changelog: Set switch-to-ground as default for diagnostic mode
         releaseDate: '2021-06-30T00:52:20.133Z'
@@ -10357,11 +10357,11 @@ software:
       588748c:
         changelog: Added support for FZJ105
         releaseDate: '2024-09-13T07:08:54.617Z'
-        upgradePrompt: false
+        upgradePrompt: true
       59fabfe:
         changelog: Improved control strategy, bug fixes, manual mode stall prevention
         releaseDate: '2022-10-28T03:49:52.082Z'
-        upgradePrompt: false
+        upgradePrompt: true
       '623e758':
         changelog: Fixed lockup switch, increased default lock speed
         releaseDate: '2021-06-29T23:28:11.974Z'
@@ -10385,7 +10385,7 @@ software:
       6f3ec2e:
         changelog: Additional vehicle support, improved system stability
         releaseDate: '2022-04-12T00:38:49.014Z'
-        upgradePrompt: false
+        upgradePrompt: true
       '76227e0':
         changelog: Added torque signal for non-DPF LC200
         releaseDate: '2021-11-14T22:22:39.051Z'
@@ -10393,11 +10393,11 @@ software:
       805f310:
         changelog: Changes to defaults and gauges
         releaseDate: '2023-02-28T05:47:25.864Z'
-        upgradePrompt: false
+        upgradePrompt: true
       98d60c3:
         changelog: Updates for Toyota Hilux variations
         releaseDate: '2023-07-23T18:32:54.920Z'
-        upgradePrompt: false
+        upgradePrompt: true
       a1077e0f:
         changelog: Bug fixes
         releaseDate: '2019-11-25T19:14:10.282Z'
@@ -10407,7 +10407,7 @@ software:
           Added support for additional vehicles plus some bug fixes. Firmware
           Update may reset your module
         releaseDate: '2024-12-11T21:53:00.942Z'
-        upgradePrompt: false
+        upgradePrompt: true
       b6e48b8:
         changelog: >-
           Updated Control Strategy for AC60 Transmissions. Added support for
@@ -10432,16 +10432,16 @@ software:
       e43fc60:
         changelog: Added additional support for Prado 150
         releaseDate: '2024-05-22T04:05:56.694Z'
-        upgradePrompt: false
+        upgradePrompt: true
       f5112fa:
         changelog: Added support for Prado 150
         releaseDate: '2024-05-02T05:41:49.194Z'
-        upgradePrompt: false
+        upgradePrompt: true
       f760720:
         changelog: Customer release of flex lock control
         releaseDate: '2022-08-13T01:53:26.743Z'
-        upgradePrompt: false
+        upgradePrompt: true
       fcc1b78:
         changelog: Added TCC slip control on vehicles that support it
         releaseDate: '2022-07-13T04:24:02.043Z'
-        upgradePrompt: false
+        upgradePrompt: true
