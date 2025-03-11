@@ -10398,6 +10398,10 @@ software:
         changelog: Updates for Toyota Hilux variations
         releaseDate: '2023-07-23T18:32:54.920Z'
         upgradePrompt: true
+      9b78b57:
+        changelog: Update to Flex Lock Strategy
+        releaseDate: '2025-03-11T05:53:01.027Z'
+        upgradePrompt: false
       a1077e0f:
         changelog: Bug fixes
         releaseDate: '2019-11-25T19:14:10.282Z'
