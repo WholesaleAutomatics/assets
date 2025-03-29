@@ -35,6 +35,12 @@ devices:
     product: lcm3
     softwareVersion: cb133d4
     tags: []
+  LCM3-00042:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: cb133d4
+    tags: []
   LCM3-00100:
     model: base
     paramDefVersion: cb133d4
