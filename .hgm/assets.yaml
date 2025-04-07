@@ -8146,7 +8146,7 @@ devices:
     model: base
     paramDefVersion: cb133d4
     product: lcm3
-    softwareVersion: cb133d4
+    softwareVersion: 9b78b57
     tags: []
   LCM3-01442:
     model: base
@@ -8176,7 +8176,7 @@ devices:
     model: base
     paramDefVersion: cb133d4
     product: lcm3
-    softwareVersion: cb133d4
+    softwareVersion: 9b78b57
     tags: []
   LCM3-01447:
     model: base
@@ -8200,7 +8200,7 @@ devices:
     model: base
     paramDefVersion: cb133d4
     product: lcm3
-    softwareVersion: cb133d4
+    softwareVersion: 9b78b57
     tags: []
   LCM3-01451:
     model: base
