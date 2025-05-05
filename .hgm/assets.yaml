@@ -10433,7 +10433,7 @@ software:
           Added support for additional vehicles plus some bug fixes. Firmware
           Update may reset your module
         releaseDate: '2024-12-12T01:53:06.717Z'
-        upgradePrompt: false
+        upgradePrompt: true
       e218226:
         changelog: Added progressive TCC apply
         releaseDate: '2021-10-26T22:34:15.186Z'
