@@ -673,10 +673,13 @@ devices:
     tags: []
   LCM3-00205:
     model: base
-    paramDefVersion: cb133d4
+    paramDefVersion: b6e48b8
     product: lcm3
-    softwareVersion: 9b78b57
-    tags: []
+    softwareVersion: b6e48b8
+    tags:
+      - AB60
+      - VDJ
+      - Non-DPF
   LCM3-00206:
     model: base
     paramDefVersion: cb133d4
