@@ -11627,6 +11627,10 @@ software:
         changelog: Changes to defaults and gauges
         releaseDate: '2023-02-28T05:47:25.864Z'
         upgradePrompt: true
+      81f8d92:
+        changelog: Update to Flex Lock Strategy for Aisin Transmissions
+        releaseDate: '2025-09-15T23:26:11.442Z'
+        upgradePrompt: false
       98d60c3:
         changelog: Updates for Toyota Hilux variations
         releaseDate: '2023-07-23T18:32:54.920Z'
