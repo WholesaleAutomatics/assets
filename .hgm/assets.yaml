@@ -11549,6 +11549,8 @@ parameters:
         releaseDate: '2024-05-23T05:58:07.970Z'
       2c6b589:
         releaseDate: '2023-06-05T23:19:15.222Z'
+      2f24ba1:
+        releaseDate: '2025-09-23T01:05:11.853Z'
       588748c:
         releaseDate: '2024-09-13T07:09:33.496Z'
       59fabfe:
@@ -11586,6 +11588,10 @@ software:
         changelog: Improved CAN bus integration on Toyota LC200
         releaseDate: '2023-06-05T23:18:35.266Z'
         upgradePrompt: true
+      2f24ba1:
+        changelog: Add Support For LC80
+        releaseDate: '2025-09-23T01:03:25.150Z'
+        upgradePrompt: false
       370ae7c:
         changelog: Set switch-to-ground as default for diagnostic mode
         releaseDate: '2021-06-30T00:52:20.133Z'
