@@ -8327,10 +8327,11 @@ devices:
     tags: []
   LCM3-01469:
     model: base
-    paramDefVersion: cb133d4
+    paramDefVersion: 2f24ba1
     product: lcm3
-    softwareVersion: 9b78b57
-    tags: []
+    softwareVersion: 2f24ba1
+    tags:
+      - Development,LC80,USA
   LCM3-01470:
     model: base
     paramDefVersion: cb133d4
