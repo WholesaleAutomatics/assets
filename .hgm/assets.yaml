@@ -9922,9 +9922,9 @@ devices:
     tags: []
   LCM3-01730:
     model: base
-    paramDefVersion: cb133d4
+    paramDefVersion: 0af753b
     product: lcm3
-    softwareVersion: 9b78b57
+    softwareVersion: 0af753b
     tags: []
   LCM3-01731:
     model: base
@@ -11587,7 +11587,7 @@ software:
       0af753b:
         changelog: Added support for Prado 150
         releaseDate: '2024-05-23T05:56:22.420Z'
-        upgradePrompt: true
+        upgradePrompt: false
       2c6b589:
         changelog: Improved CAN bus integration on Toyota LC200
         releaseDate: '2023-06-05T23:18:35.266Z'
