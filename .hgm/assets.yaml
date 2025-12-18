@@ -8116,8 +8116,12 @@ devices:
     model: base
     paramDefVersion: cb133d4
     product: lcm3
-    softwareVersion: 9b78b57
-    tags: []
+    softwareVersion: 81f8d92
+    tags:
+      - Hilux
+      - AC60
+      - 1GD-FTV
+      - Flex
   LCM3-01434:
     model: base
     paramDefVersion: cb133d4
