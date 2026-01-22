@@ -7097,9 +7097,9 @@ devices:
     tags: []
   LCM3-01267:
     model: base
-    paramDefVersion: cb133d4
+    paramDefVersion: 0af753b
     product: lcm3
-    softwareVersion: 9b78b57
+    softwareVersion: 0af753b
     tags: []
   LCM3-01268:
     model: base
