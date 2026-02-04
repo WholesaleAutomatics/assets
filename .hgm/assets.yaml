@@ -9299,9 +9299,9 @@ devices:
     tags: []
   LCM3-01626:
     model: base
-    paramDefVersion: b6e48b8
+    paramDefVersion: 0af753b
     product: lcm3
-    softwareVersion: b6e48b8
+    softwareVersion: 0af753b
     tags:
       - LC200
       - Non-DPF
