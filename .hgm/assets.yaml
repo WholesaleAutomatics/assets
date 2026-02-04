@@ -11557,6 +11557,8 @@ parameters:
         releaseDate: '2024-05-23T05:58:07.970Z'
       2c6b589:
         releaseDate: '2023-06-05T23:19:15.222Z'
+      2d7a88b:
+        releaseDate: '2026-02-04T23:52:24.034Z'
       2f24ba1:
         releaseDate: '2025-09-23T01:05:11.853Z'
       588748c:
@@ -11612,6 +11614,10 @@ software:
         changelog: Improved control strategy, bug fixes, manual mode stall prevention
         releaseDate: '2022-10-28T03:49:52.082Z'
         upgradePrompt: true
+      612bb5e:
+        changelog: Updated to new Flex Lock Strategy
+        releaseDate: '2026-02-04T23:51:43.406Z'
+        upgradePrompt: false
       '623e758':
         changelog: Fixed lockup switch, increased default lock speed
         releaseDate: '2021-06-29T23:28:11.974Z'
