@@ -11550,7 +11550,121 @@ devices:
     product: lcm3
     softwareVersion: 9b78b57
     tags: []
+  LCM3-02001:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: 9b78b57
+    tags: []
+  LCM3-02002:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: 9b78b57
+    tags: []
+  LCM3-02003:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: 9b78b57
+    tags: []
+  LCM3-02004:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: 9b78b57
+    tags: []
+  LCM3-02005:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: 9b78b57
+    tags: []
+  LCM3-02006:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: 9b78b57
+    tags: []
+  LCM3-02007:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: 9b78b57
+    tags: []
+  LCM3-02008:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: 9b78b57
+    tags: []
+  LCM3-02009:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: 9b78b57
+    tags: []
+  LCM3-02010:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: 9b78b57
+    tags: []
+  LCM3-02011:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: 9b78b57
+    tags: []
+  LCM3-02012:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: 9b78b57
+    tags: []
+  LCM3-02013:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: 9b78b57
+    tags: []
+  LCM3-02014:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: 9b78b57
+    tags: []
+  LCM3-02015:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: 9b78b57
+    tags: []
   LCM3-02016:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: 9b78b57
+    tags: []
+  LCM3-02017:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: 9b78b57
+    tags: []
+  LCM3-02018:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: 9b78b57
+    tags: []
+  LCM3-02019:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: 9b78b57
+    tags: []
+  LCM3-02020:
     model: base
     paramDefVersion: cb133d4
     product: lcm3
