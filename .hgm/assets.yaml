@@ -11718,6 +11718,10 @@ software:
         changelog: Improved CAN bus integration on Toyota LC200
         releaseDate: '2023-06-05T23:18:35.266Z'
         upgradePrompt: true
+      2d7a88b:
+        changelog: Added Support For Isuzu D-Max MU-X A750
+        releaseDate: '2026-02-08T23:38:37.217Z'
+        upgradePrompt: false
       2f24ba1:
         changelog: Add Support For LC80
         releaseDate: '2025-09-23T01:03:25.150Z'
