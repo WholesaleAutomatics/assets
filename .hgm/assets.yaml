@@ -11462,9 +11462,9 @@ devices:
     tags: []
   LCM3-01986:
     model: base
-    paramDefVersion: cb133d4
+    paramDefVersion: 2d7a88b
     product: lcm3
-    softwareVersion: 9b78b57
+    softwareVersion: 2d7a88b
     tags: []
   LCM3-01987:
     model: base
