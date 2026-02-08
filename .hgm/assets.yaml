@@ -11550,6 +11550,12 @@ devices:
     product: lcm3
     softwareVersion: 9b78b57
     tags: []
+  LCM3-02016:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: 9b78b57
+    tags: []
 parameters:
   lcm3:
     base:
