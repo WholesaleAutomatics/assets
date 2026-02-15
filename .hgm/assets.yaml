@@ -11670,6 +11670,186 @@ devices:
     product: lcm3
     softwareVersion: 9b78b57
     tags: []
+  LCM3-02021:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: 9b78b57
+    tags: []
+  LCM3-02022:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: 9b78b57
+    tags: []
+  LCM3-02023:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: 9b78b57
+    tags: []
+  LCM3-02024:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: 9b78b57
+    tags: []
+  LCM3-02025:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: 9b78b57
+    tags: []
+  LCM3-02026:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: 9b78b57
+    tags: []
+  LCM3-02027:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: 9b78b57
+    tags: []
+  LCM3-02028:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: 9b78b57
+    tags: []
+  LCM3-02029:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: 9b78b57
+    tags: []
+  LCM3-02030:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: 9b78b57
+    tags: []
+  LCM3-02031:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: 9b78b57
+    tags: []
+  LCM3-02032:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: 9b78b57
+    tags: []
+  LCM3-02033:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: 9b78b57
+    tags: []
+  LCM3-02034:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: 9b78b57
+    tags: []
+  LCM3-02035:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: 9b78b57
+    tags: []
+  LCM3-02036:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: 9b78b57
+    tags: []
+  LCM3-02037:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: 9b78b57
+    tags: []
+  LCM3-02038:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: 9b78b57
+    tags: []
+  LCM3-02039:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: 9b78b57
+    tags: []
+  LCM3-02040:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: 9b78b57
+    tags: []
+  LCM3-02042:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: 9b78b57
+    tags: []
+  LCM3-02043:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: 9b78b57
+    tags: []
+  LCM3-02044:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: 9b78b57
+    tags: []
+  LCM3-02046:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: 9b78b57
+    tags: []
+  LCM3-02047:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: 9b78b57
+    tags: []
+  LCM3-02048:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: 9b78b57
+    tags: []
+  LCM3-02049:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: 9b78b57
+    tags: []
+  LCM3-02050:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: 9b78b57
+    tags: []
+  LCM3-02051:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: 9b78b57
+    tags: []
+  LCM3-02053:
+    model: base
+    paramDefVersion: cb133d4
+    product: lcm3
+    softwareVersion: 9b78b57
+    tags: []
 parameters:
   lcm3:
     base:
