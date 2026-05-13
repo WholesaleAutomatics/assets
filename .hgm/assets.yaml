@@ -14817,6 +14817,8 @@ devices:
 parameters:
   lcm3:
     base:
+      035aec6:
+        releaseDate: '2026-05-13T23:28:49.443Z'
       0af753b:
         releaseDate: '2024-05-23T05:58:07.970Z'
       2c6b589:
@@ -14854,6 +14856,10 @@ parameters:
 software:
   lcm3:
     base:
+      035aec6:
+        changelog: Added Support For Isuzu 5 Speed
+        releaseDate: '2026-05-13T23:28:17.845Z'
+        upgradePrompt: false
       0af753b:
         changelog: Added support for Prado 150
         releaseDate: '2024-05-23T05:56:22.420Z'
