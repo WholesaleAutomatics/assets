@@ -1293,9 +1293,9 @@ devices:
     tags: []
   LCM3-00307:
     model: base
-    paramDefVersion: 0af753b
+    paramDefVersion: cceb251
     product: lcm3
-    softwareVersion: 0af753b
+    softwareVersion: cceb251
     tags: []
   LCM3-00308:
     model: base
@@ -1551,9 +1551,9 @@ devices:
     tags: []
   LCM3-00350:
     model: base
-    paramDefVersion: cb133d4
+    paramDefVersion: cceb251
     product: lcm3
-    softwareVersion: 9b78b57
+    softwareVersion: cceb251
     tags: []
   LCM3-00351:
     model: base
@@ -3292,9 +3292,9 @@ devices:
     tags: []
   LCM3-00639:
     model: base
-    paramDefVersion: cb133d4
+    paramDefVersion: cceb251
     product: lcm3
-    softwareVersion: 81f8d92
+    softwareVersion: cceb251
     tags: []
   LCM3-00640:
     model: base
@@ -5812,9 +5812,9 @@ devices:
     tags: []
   LCM3-01058:
     model: base
-    paramDefVersion: cb133d4
+    paramDefVersion: cceb251
     product: lcm3
-    softwareVersion: 9b78b57
+    softwareVersion: cceb251
     tags: []
   LCM3-01059:
     model: base
@@ -7133,9 +7133,9 @@ devices:
     tags: []
   LCM3-01273:
     model: base
-    paramDefVersion: b6e48b8
+    paramDefVersion: cceb251
     product: lcm3
-    softwareVersion: b6e48b8
+    softwareVersion: cceb251
     tags: []
   LCM3-01274:
     model: base
@@ -11414,9 +11414,9 @@ devices:
     tags: []
   LCM3-01978:
     model: base
-    paramDefVersion: cb133d4
+    paramDefVersion: cceb251
     product: lcm3
-    softwareVersion: 9b78b57
+    softwareVersion: cceb251
     tags: []
   LCM3-01979:
     model: base
@@ -11978,9 +11978,9 @@ devices:
     tags: []
   LCM3-02076:
     model: base
-    paramDefVersion: cb133d4
+    paramDefVersion: cceb251
     product: lcm3
-    softwareVersion: 9b78b57
+    softwareVersion: cceb251
     tags: []
   LCM3-02077:
     model: base
@@ -12014,9 +12014,9 @@ devices:
     tags: []
   LCM3-02082:
     model: base
-    paramDefVersion: cb133d4
+    paramDefVersion: cceb251
     product: lcm3
-    softwareVersion: 9b78b57
+    softwareVersion: cceb251
     tags: []
   LCM3-02083:
     model: base
@@ -12158,9 +12158,9 @@ devices:
     tags: []
   LCM3-02107:
     model: base
-    paramDefVersion: cb133d4
+    paramDefVersion: cceb251
     product: lcm3
-    softwareVersion: 9b78b57
+    softwareVersion: cceb251
     tags: []
   LCM3-02108:
     model: base
@@ -12476,9 +12476,9 @@ devices:
     tags: []
   LCM3-02160:
     model: base
-    paramDefVersion: 035aec6
+    paramDefVersion: cceb251
     product: lcm3
-    softwareVersion: 035aec6
+    softwareVersion: cceb251
     tags: []
   LCM3-02161:
     model: base
@@ -12578,9 +12578,9 @@ devices:
     tags: []
   LCM3-02177:
     model: base
-    paramDefVersion: 035aec6
+    paramDefVersion: cceb251
     product: lcm3
-    softwareVersion: 035aec6
+    softwareVersion: cceb251
     tags: []
   LCM3-02178:
     model: base
@@ -12626,9 +12626,9 @@ devices:
     tags: []
   LCM3-02185:
     model: base
-    paramDefVersion: 035aec6
+    paramDefVersion: cceb251
     product: lcm3
-    softwareVersion: 035aec6
+    softwareVersion: cceb251
     tags: []
   LCM3-02186:
     model: base
@@ -12674,9 +12674,9 @@ devices:
     tags: []
   LCM3-02193:
     model: base
-    paramDefVersion: cb133d4
+    paramDefVersion: cceb251
     product: lcm3
-    softwareVersion: 9b78b57
+    softwareVersion: cceb251
     tags: []
   LCM3-02194:
     model: base
@@ -13232,9 +13232,9 @@ devices:
     tags: []
   LCM3-02287:
     model: base
-    paramDefVersion: 035aec6
+    paramDefVersion: cceb251
     product: lcm3
-    softwareVersion: 035aec6
+    softwareVersion: cceb251
     tags: []
   LCM3-02288:
     model: base
