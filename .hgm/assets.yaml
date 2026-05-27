@@ -5923,10 +5923,13 @@ devices:
     tags: []
   LCM3-01076:
     model: base
-    paramDefVersion: cb133d4
+    paramDefVersion: cceb251
     product: lcm3
-    softwareVersion: 81f8d92
-    tags: []
+    softwareVersion: cceb251
+    tags:
+      - Prado
+      - '150'
+      - AC60
   LCM3-01077:
     model: base
     paramDefVersion: cb133d4
