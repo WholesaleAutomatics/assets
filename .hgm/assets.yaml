@@ -14856,6 +14856,8 @@ parameters:
         releaseDate: '2024-05-22T04:04:11.771Z'
       f5112fa:
         releaseDate: '2024-05-02T05:17:25.122Z'
+      fa82c04:
+        releaseDate: '2026-06-01T23:18:57.882Z'
       fcc1b78:
         releaseDate: '2022-07-13T04:24:02.043Z'
 software:
@@ -14988,6 +14990,10 @@ software:
         changelog: Customer release of flex lock control
         releaseDate: '2022-08-13T01:53:26.743Z'
         upgradePrompt: true
+      fa82c04:
+        changelog: Added Support for Isuzu A750 Vehicles
+        releaseDate: '2026-06-01T23:18:17.817Z'
+        upgradePrompt: false
       fcc1b78:
         changelog: Added TCC slip control on vehicles that support it
         releaseDate: '2022-07-13T04:24:02.043Z'
