@@ -11417,9 +11417,9 @@ devices:
     tags: []
   LCM3-01978:
     model: base
-    paramDefVersion: cceb251
+    paramDefVersion: fa82c04
     product: lcm3
-    softwareVersion: cceb251
+    softwareVersion: fa82c04
     tags: []
   LCM3-01979:
     model: base
