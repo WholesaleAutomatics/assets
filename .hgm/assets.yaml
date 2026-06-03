@@ -1293,9 +1293,9 @@ devices:
     tags: []
   LCM3-00307:
     model: base
-    paramDefVersion: cceb251
+    paramDefVersion: fa82c04
     product: lcm3
-    softwareVersion: cceb251
+    softwareVersion: fa82c04
     tags: []
   LCM3-00308:
     model: base
@@ -1551,9 +1551,9 @@ devices:
     tags: []
   LCM3-00350:
     model: base
-    paramDefVersion: cceb251
+    paramDefVersion: fa82c04
     product: lcm3
-    softwareVersion: cceb251
+    softwareVersion: fa82c04
     tags: []
   LCM3-00351:
     model: base
@@ -1641,9 +1641,9 @@ devices:
     tags: []
   LCM3-00365:
     model: base
-    paramDefVersion: cceb251
+    paramDefVersion: fa82c04
     product: lcm3
-    softwareVersion: cceb251
+    softwareVersion: fa82c04
     tags: []
   LCM3-00366:
     model: base
@@ -3292,9 +3292,9 @@ devices:
     tags: []
   LCM3-00639:
     model: base
-    paramDefVersion: cceb251
+    paramDefVersion: fa82c04
     product: lcm3
-    softwareVersion: cceb251
+    softwareVersion: fa82c04
     tags: []
   LCM3-00640:
     model: base
@@ -5812,9 +5812,9 @@ devices:
     tags: []
   LCM3-01058:
     model: base
-    paramDefVersion: cceb251
+    paramDefVersion: fa82c04
     product: lcm3
-    softwareVersion: cceb251
+    softwareVersion: fa82c04
     tags: []
   LCM3-01059:
     model: base
@@ -5923,9 +5923,9 @@ devices:
     tags: []
   LCM3-01076:
     model: base
-    paramDefVersion: cceb251
+    paramDefVersion: fa82c04
     product: lcm3
-    softwareVersion: cceb251
+    softwareVersion: fa82c04
     tags:
       - Prado
       - '150'
@@ -11981,9 +11981,9 @@ devices:
     tags: []
   LCM3-02076:
     model: base
-    paramDefVersion: cceb251
+    paramDefVersion: fa82c04
     product: lcm3
-    softwareVersion: cceb251
+    softwareVersion: fa82c04
     tags: []
   LCM3-02077:
     model: base
@@ -12017,9 +12017,9 @@ devices:
     tags: []
   LCM3-02082:
     model: base
-    paramDefVersion: cceb251
+    paramDefVersion: fa82c04
     product: lcm3
-    softwareVersion: cceb251
+    softwareVersion: fa82c04
     tags: []
   LCM3-02083:
     model: base
@@ -12161,9 +12161,9 @@ devices:
     tags: []
   LCM3-02107:
     model: base
-    paramDefVersion: cceb251
+    paramDefVersion: fa82c04
     product: lcm3
-    softwareVersion: cceb251
+    softwareVersion: fa82c04
     tags: []
   LCM3-02108:
     model: base
@@ -12479,9 +12479,9 @@ devices:
     tags: []
   LCM3-02160:
     model: base
-    paramDefVersion: cceb251
+    paramDefVersion: fa82c04
     product: lcm3
-    softwareVersion: cceb251
+    softwareVersion: fa82c04
     tags: []
   LCM3-02161:
     model: base
@@ -12581,9 +12581,9 @@ devices:
     tags: []
   LCM3-02177:
     model: base
-    paramDefVersion: cceb251
+    paramDefVersion: fa82c04
     product: lcm3
-    softwareVersion: cceb251
+    softwareVersion: fa82c04
     tags: []
   LCM3-02178:
     model: base
@@ -12629,9 +12629,9 @@ devices:
     tags: []
   LCM3-02185:
     model: base
-    paramDefVersion: cceb251
+    paramDefVersion: fa82c04
     product: lcm3
-    softwareVersion: cceb251
+    softwareVersion: fa82c04
     tags: []
   LCM3-02186:
     model: base
@@ -12659,9 +12659,9 @@ devices:
     tags: []
   LCM3-02190:
     model: base
-    paramDefVersion: cceb251
+    paramDefVersion: fa82c04
     product: lcm3
-    softwareVersion: cceb251
+    softwareVersion: fa82c04
     tags: []
   LCM3-02191:
     model: base
@@ -12677,9 +12677,9 @@ devices:
     tags: []
   LCM3-02193:
     model: base
-    paramDefVersion: cceb251
+    paramDefVersion: fa82c04
     product: lcm3
-    softwareVersion: cceb251
+    softwareVersion: fa82c04
     tags: []
   LCM3-02194:
     model: base
@@ -13235,9 +13235,9 @@ devices:
     tags: []
   LCM3-02287:
     model: base
-    paramDefVersion: cceb251
+    paramDefVersion: fa82c04
     product: lcm3
-    softwareVersion: cceb251
+    softwareVersion: fa82c04
     tags: []
   LCM3-02288:
     model: base
@@ -14969,7 +14969,7 @@ software:
       cceb251:
         changelog: Added Support For Isuzu 5sp 4x4 & 4x2
         releaseDate: '2026-05-22T00:34:06.928Z'
-        upgradePrompt: false
+        upgradePrompt: true
       e218226:
         changelog: Added progressive TCC apply
         releaseDate: '2021-10-26T22:34:15.186Z'
@@ -14991,8 +14991,8 @@ software:
         releaseDate: '2022-08-13T01:53:26.743Z'
         upgradePrompt: true
       fa82c04:
-        changelog: Added Support for Isuzu A750 Vehicles
-        releaseDate: '2026-06-01T23:18:17.817Z'
+        changelog: Roll-up of firmware changes
+        releaseDate: '2026-06-03T23:31:06.598Z'
         upgradePrompt: false
       fcc1b78:
         changelog: Added TCC slip control on vehicles that support it
