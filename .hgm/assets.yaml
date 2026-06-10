@@ -12047,9 +12047,9 @@ devices:
     tags: []
   LCM3-02087:
     model: base
-    paramDefVersion: cb133d4
+    paramDefVersion: fa82c04
     product: lcm3
-    softwareVersion: 9b78b57
+    softwareVersion: fa82c04
     tags: []
   LCM3-02088:
     model: base
@@ -14899,7 +14899,7 @@ software:
         changelog: Updated to new Flex Lock Strategy
         releaseDate: '2026-02-04T23:51:43.406Z'
         upgradePrompt: false
-      '623e758':
+      623e758:
         changelog: Fixed lockup switch, increased default lock speed
         releaseDate: '2021-06-29T23:28:11.974Z'
         upgradePrompt: true
