@@ -10853,9 +10853,9 @@ devices:
     tags: []
   LCM3-01884:
     model: base
-    paramDefVersion: fa82c04
+    paramDefVersion: cb133d4
     product: lcm3
-    softwareVersion: fa82c04
+    softwareVersion: 81f8d92
     tags: []
   LCM3-01885:
     model: base
