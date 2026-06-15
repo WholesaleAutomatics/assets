@@ -12791,9 +12791,9 @@ devices:
     tags: []
   LCM3-02212:
     model: base
-    paramDefVersion: cb133d4
+    paramDefVersion: fa82c04
     product: lcm3
-    softwareVersion: 9b78b57
+    softwareVersion: fa82c04
     tags: []
   LCM3-02213:
     model: base
@@ -12833,9 +12833,9 @@ devices:
     tags: []
   LCM3-02219:
     model: base
-    paramDefVersion: cb133d4
+    paramDefVersion: fa82c04
     product: lcm3
-    softwareVersion: 9b78b57
+    softwareVersion: fa82c04
     tags: []
   LCM3-02220:
     model: base
@@ -13157,9 +13157,9 @@ devices:
     tags: []
   LCM3-02274:
     model: base
-    paramDefVersion: cb133d4
+    paramDefVersion: fa82c04
     product: lcm3
-    softwareVersion: 9b78b57
+    softwareVersion: fa82c04
     tags: []
   LCM3-02275:
     model: base
