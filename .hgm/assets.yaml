@@ -678,8 +678,8 @@ devices:
     softwareVersion: b6e48b8
     tags:
       - AB60
-      - VDJ
       - Non-DPF
+      - VDJ
   LCM3-00206:
     model: base
     paramDefVersion: cb133d4
@@ -716,8 +716,8 @@ devices:
     product: lcm3
     softwareVersion: 9b78b57
     tags:
-      - Non-DPF
       - AB60
+      - Non-DPF
       - VDJ
   LCM3-00212:
     model: base
@@ -1271,8 +1271,8 @@ devices:
     product: lcm3
     softwareVersion: 9b78b57
     tags:
-      - LC200
       - AB60
+      - LC200
   LCM3-00304:
     model: base
     paramDefVersion: cb133d4
@@ -2551,9 +2551,9 @@ devices:
     product: lcm3
     softwareVersion: 9b78b57
     tags:
+      - AB60
       - LC200
       - VDJ
-      - AB60
   LCM3-00517:
     model: base
     paramDefVersion: cb133d4
@@ -3221,9 +3221,9 @@ devices:
     product: lcm3
     softwareVersion: b6e48b8
     tags:
+      - AB60
       - LC200
       - Non-DPF
-      - AB60
   LCM3-00628:
     model: base
     paramDefVersion: cb133d4
@@ -3518,8 +3518,8 @@ devices:
     product: lcm3
     softwareVersion: 9b78b57
     tags:
-      - LC200
       - AB60
+      - LC200
       - Non-DPF
   LCM3-00677:
     model: base
@@ -5153,9 +5153,9 @@ devices:
     product: lcm3
     softwareVersion: 9b78b57
     tags:
-      - Hilux
-      - AC60
       - 1GD-FTV
+      - AC60
+      - Hilux
   LCM3-00949:
     model: base
     paramDefVersion: cb133d4
@@ -5870,9 +5870,9 @@ devices:
     product: lcm3
     softwareVersion: 9b78b57
     tags:
-      - LC200
       - AB60
       - DPF
+      - LC200
   LCM3-01068:
     model: base
     paramDefVersion: cb133d4
@@ -5927,9 +5927,9 @@ devices:
     product: lcm3
     softwareVersion: fa82c04
     tags:
-      - Prado
       - '150'
       - AC60
+      - Prado
   LCM3-01077:
     model: base
     paramDefVersion: cb133d4
@@ -6302,9 +6302,9 @@ devices:
     product: lcm3
     softwareVersion: 9b78b57
     tags:
+      - AB60
       - LC200
       - VDJ
-      - AB60
   LCM3-01139:
     model: base
     paramDefVersion: cb133d4
@@ -6479,9 +6479,9 @@ devices:
     product: lcm3
     softwareVersion: 9b78b57
     tags:
+      - AB60
       - LC200
       - Non-DPF
-      - AB60
   LCM3-01168:
     model: base
     paramDefVersion: cb133d4
@@ -6512,8 +6512,8 @@ devices:
     product: lcm3
     softwareVersion: 9b78b57
     tags:
-      - LC100
       - 1HD-A750
+      - LC100
   LCM3-01173:
     model: base
     paramDefVersion: cb133d4
@@ -6544,9 +6544,9 @@ devices:
     product: lcm3
     softwareVersion: b6e48b8
     tags:
+      - AB60
       - LC200
       - Non-DPF
-      - AB60
   LCM3-01178:
     model: base
     paramDefVersion: cb133d4
@@ -6631,9 +6631,9 @@ devices:
     product: lcm3
     softwareVersion: 9b78b57
     tags:
+      - AB60
       - LC200
       - VDJ
-      - AB60
   LCM3-01192:
     model: base
     paramDefVersion: cb133d4
@@ -6646,9 +6646,9 @@ devices:
     product: lcm3
     softwareVersion: 9b78b57
     tags:
+      - AB60
       - LC200
       - VDJ
-      - AB60
   LCM3-01194:
     model: base
     paramDefVersion: cb133d4
@@ -6691,9 +6691,9 @@ devices:
     product: lcm3
     softwareVersion: 9b78b57
     tags:
-      - LC200
       - 1UR-FE
       - AB60
+      - LC200
   LCM3-01201:
     model: base
     paramDefVersion: cb133d4
@@ -6730,8 +6730,8 @@ devices:
     product: lcm3
     softwareVersion: b6e48b8
     tags:
-      - LC200
       - AB60
+      - LC200
       - Non-DPF
   LCM3-01207:
     model: base
@@ -6835,8 +6835,8 @@ devices:
     product: lcm3
     softwareVersion: 9b78b57
     tags:
-      - LC100
       - 1HD-A750
+      - LC100
   LCM3-01224:
     model: base
     paramDefVersion: cb133d4
@@ -6891,9 +6891,9 @@ devices:
     product: lcm3
     softwareVersion: 9b78b57
     tags:
+      - AB60
       - LC200
       - Non-DPF
-      - AB60
   LCM3-01233:
     model: base
     paramDefVersion: 0af753b
@@ -7296,24 +7296,24 @@ devices:
     product: lcm3
     softwareVersion: 9b78b57
     tags:
-      - LC100
       - 1HD-A750
+      - LC100
   LCM3-01300:
     model: base
     paramDefVersion: cb133d4
     product: lcm3
     softwareVersion: 9b78b57
     tags:
-      - LC100
       - 1HD-A750
+      - LC100
   LCM3-01301:
     model: base
     paramDefVersion: cb133d4
     product: lcm3
     softwareVersion: 9b78b57
     tags:
-      - LC100
       - 1HD-A750
+      - LC100
   LCM3-01302:
     model: base
     paramDefVersion: cb133d4
@@ -7482,8 +7482,8 @@ devices:
     product: lcm3
     softwareVersion: 9b78b57
     tags:
-      - LC100
       - 1HD-A750
+      - LC100
   LCM3-01330:
     model: base
     paramDefVersion: cb133d4
@@ -7520,9 +7520,9 @@ devices:
     product: lcm3
     softwareVersion: 9b78b57
     tags:
-      - Prado150
-      - AC60
       - 1GD-FTV
+      - AC60
+      - Prado150
   LCM3-01336:
     model: base
     paramDefVersion: cb133d4
@@ -7607,18 +7607,18 @@ devices:
     product: lcm3
     softwareVersion: 9b78b57
     tags:
+      - AB60
       - LC200
       - VDJ
-      - AB60
   LCM3-01350:
     model: base
     paramDefVersion: cb133d4
     product: lcm3
     softwareVersion: 9b78b57
     tags:
-      - LC200
       - AB60
       - DPF
+      - LC200
   LCM3-01351:
     model: base
     paramDefVersion: cb133d4
@@ -7679,8 +7679,8 @@ devices:
     product: lcm3
     softwareVersion: 9b78b57
     tags:
-      - LC100
       - 1HD-A750
+      - LC100
   LCM3-01361:
     model: base
     paramDefVersion: cb133d4
@@ -7705,16 +7705,16 @@ devices:
     product: lcm3
     softwareVersion: 9b78b57
     tags:
-      - LC100
       - 1HD-A750
+      - LC100
   LCM3-01365:
     model: base
     paramDefVersion: cb133d4
     product: lcm3
     softwareVersion: 9b78b57
     tags:
-      - Prado150
       - AC60
+      - Prado150
   LCM3-01366:
     model: base
     paramDefVersion: cb133d4
@@ -7733,9 +7733,9 @@ devices:
     product: lcm3
     softwareVersion: 9b78b57
     tags:
+      - AB60
       - LC200
       - VDJ
-      - AB60
   LCM3-01369:
     model: base
     paramDefVersion: cb133d4
@@ -8121,10 +8121,10 @@ devices:
     product: lcm3
     softwareVersion: 81f8d92
     tags:
-      - Hilux
-      - AC60
       - 1GD-FTV
+      - AC60
       - Flex
+      - Hilux
   LCM3-01434:
     model: base
     paramDefVersion: cb133d4
@@ -8703,8 +8703,8 @@ devices:
     softwareVersion: 9b78b57
     tags:
       - Nissan
-      - TB48
       - RE5
+      - TB48
   LCM3-01530:
     model: base
     paramDefVersion: cb133d4
@@ -8801,10 +8801,10 @@ devices:
     product: lcm3
     softwareVersion: 9b78b57
     tags:
-      - Nissan
-      - ZD30
-      - RE4
       - DI
+      - Nissan
+      - RE4
+      - ZD30
   LCM3-01546:
     model: base
     paramDefVersion: cb133d4
@@ -8865,9 +8865,9 @@ devices:
     product: lcm3
     softwareVersion: 81f8d92
     tags:
-      - Hilux
       - AC60
       - Flex
+      - Hilux
   LCM3-01556:
     model: base
     paramDefVersion: cb133d4
@@ -8893,8 +8893,8 @@ devices:
     softwareVersion: 9b78b57
     tags:
       - Nissan
-      - TB48
       - RE5
+      - TB48
   LCM3-01560:
     model: base
     paramDefVersion: cb133d4
@@ -8974,8 +8974,8 @@ devices:
     softwareVersion: 9b78b57
     tags:
       - Nissan
-      - TB48
       - RE5
+      - TB48
   LCM3-01573:
     model: base
     paramDefVersion: cb133d4
@@ -9024,18 +9024,18 @@ devices:
     product: lcm3
     softwareVersion: 9b78b57
     tags:
-      - Hilux
-      - AC60
       - 1GD-FTV
+      - AC60
+      - Hilux
   LCM3-01581:
     model: base
     paramDefVersion: cb133d4
     product: lcm3
     softwareVersion: 9b78b57
     tags:
-      - LC100
       - 1HD-FTE
       - A750F
+      - LC100
   LCM3-01582:
     model: base
     paramDefVersion: cb133d4
@@ -9306,9 +9306,9 @@ devices:
     product: lcm3
     softwareVersion: 612bb5e
     tags:
+      - AB60
       - LC200
       - Non-DPF
-      - AB60
   LCM3-01627:
     model: base
     paramDefVersion: cb133d4
@@ -10091,9 +10091,9 @@ devices:
     tags: []
   LCM3-01757:
     model: base
-    paramDefVersion: cb133d4
+    paramDefVersion: fa82c04
     product: lcm3
-    softwareVersion: 9b78b57
+    softwareVersion: fa82c04
     tags: []
   LCM3-01758:
     model: base
@@ -14899,7 +14899,7 @@ software:
         changelog: Updated to new Flex Lock Strategy
         releaseDate: '2026-02-04T23:51:43.406Z'
         upgradePrompt: false
-      '623e758':
+      623e758:
         changelog: Fixed lockup switch, increased default lock speed
         releaseDate: '2021-06-29T23:28:11.974Z'
         upgradePrompt: true
