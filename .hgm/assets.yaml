@@ -14854,6 +14854,8 @@
         'releaseDate': '2024-07-14T23:34:22.262Z'
       'e43fc60':
         'releaseDate': '2024-05-22T04:04:11.771Z'
+      'f3ef7c8':
+        'releaseDate': '2026-06-23T00:00:00.000Z'
       'f5112fa':
         'releaseDate': '2024-05-02T05:17:25.122Z'
       'fa82c04':
@@ -14967,6 +14969,9 @@
         'changelog': 'Added additional support for Prado 150'
         'releaseDate': '2024-05-22T04:05:56.694Z'
         'upgradePrompt': true
+      'f3ef7c8':
+        'changelog': 'Bug fixes for Isuzu D-Max'
+        'releaseDate': '2026-06-23T00:00:00.000Z'
       'f5112fa':
         'changelog': 'Added support for Prado 150'
         'releaseDate': '2024-05-02T05:41:49.194Z'
