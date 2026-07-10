@@ -7781,9 +7781,9 @@
     'tags': []
   'LCM3-01376':
     'model': 'base'
-    'paramDefVersion': '0af753b'
+    'paramDefVersion': 'fa82c04'
     'product': 'lcm3'
-    'softwareVersion': '0af753b'
+    'softwareVersion': 'fa82c04'
     'tags': []
   'LCM3-01377':
     'model': 'base'
