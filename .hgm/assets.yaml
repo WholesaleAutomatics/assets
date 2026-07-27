@@ -14471,9 +14471,9 @@
     'tags': []
   'LCM3-02496':
     'model': 'base'
-    'paramDefVersion': 'cb133d4'
+    'paramDefVersion': 'fa82c04'
     'product': 'lcm3'
-    'softwareVersion': '9b78b57'
+    'softwareVersion': 'fa82c04'
     'tags': []
   'LCM3-02497':
     'model': 'base'
@@ -14483,9 +14483,9 @@
     'tags': []
   'LCM3-02498':
     'model': 'base'
-    'paramDefVersion': 'cb133d4'
+    'paramDefVersion': 'fa82c04'
     'product': 'lcm3'
-    'softwareVersion': '9b78b57'
+    'softwareVersion': 'fa82c04'
     'tags': []
   'LCM3-02499':
     'model': 'base'
