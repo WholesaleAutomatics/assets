@@ -6178,10 +6178,12 @@
     'tags': []
   'LCM3-01118':
     'model': 'base'
-    'paramDefVersion': 'cb133d4'
+    'paramDefVersion': 'fa82c04'
     'product': 'lcm3'
-    'softwareVersion': '9b78b57'
-    'tags': []
+    'softwareVersion': 'fa82c04'
+    'tags':
+      - 'LC200'
+      - 'AB60'
   'LCM3-01119':
     'model': 'base'
     'paramDefVersion': 'cb133d4'
