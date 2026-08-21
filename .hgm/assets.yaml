@@ -14416,7 +14416,10 @@
     'paramDefVersion': 'fa82c04'
     'product': 'lcm3'
     'softwareVersion': 'fa82c04'
-    'tags': []
+    'tags':
+      - 'Nissan'
+      - 'RE5'
+      - 'TB48'
   'LCM3-02487':
     'model': 'base'
     'paramDefVersion': 'fa82c04'
