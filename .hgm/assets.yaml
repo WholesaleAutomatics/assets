@@ -14835,6 +14835,8 @@
         'releaseDate': '2026-02-04T23:52:24.034Z'
       '2f24ba1':
         'releaseDate': '2025-09-23T01:05:11.853Z'
+      '3d1235c':
+        'releaseDate': '2026-09-18T04:32:42.153Z'
       '588748c':
         'releaseDate': '2024-09-13T07:09:33.496Z'
       '59fabfe':
@@ -14891,6 +14893,9 @@
         'changelog': 'Set switch-to-ground as default for diagnostic mode'
         'releaseDate': '2021-06-30T00:52:20.133Z'
         'upgradePrompt': true
+      '3d1235c':
+        'changelog': 'Updated LC80 Switch Configuration'
+        'releaseDate': '2026-09-18T04:31:46.039Z'
       '588748c':
         'changelog': 'Added support for FZJ105'
         'releaseDate': '2024-09-13T07:08:54.617Z'
