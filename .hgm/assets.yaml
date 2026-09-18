@@ -14167,10 +14167,11 @@
     'tags': []
   'LCM3-02443':
     'model': 'base'
-    'paramDefVersion': 'fa82c04'
+    'paramDefVersion': '3d1235c'
     'product': 'lcm3'
-    'softwareVersion': 'fa82c04'
-    'tags': []
+    'softwareVersion': '3d1235c'
+    'tags':
+      - 'lc80'
   'LCM3-02444':
     'model': 'base'
     'paramDefVersion': 'fa82c04'
