@@ -6477,9 +6477,9 @@
     'tags': []
   'LCM3-01167':
     'model': 'base'
-    'paramDefVersion': 'fa82c04'
+    'paramDefVersion': '0af753b'
     'product': 'lcm3'
-    'softwareVersion': 'fa82c04'
+    'softwareVersion': '0af753b'
     'tags':
       - 'AB60'
       - 'LC200'
